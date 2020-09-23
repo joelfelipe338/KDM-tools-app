@@ -1,0 +1,62 @@
+
+O leão faminto fareja o almíscar dos sobreviventes com o vento.
+
+Mova o espaço White Lion 1 em direção aos sobreviventes no tabuleiro de caça. Se ele se mover para o espaço dos sobreviventes, o Leão Branco emboscará os sobreviventes.
+
+Se o Leão Branco emboscar os sobreviventes, eles pulam o primeiro turno.
+
+/
+
+A escuridão está cheia de gritos e uivos sobrenaturais. Amontoados, os sobreviventes fecham os olhos, mas não conseguem dormir.
+
+Todos os sobreviventes sofrem 1 dano por evento cerebral.
+
+/
+
+Uma efígie rudemente organizada está diante dos sobreviventes. Decorado com pequenas bugigangas de metal, dedos humanos e recheado com grama alta seca, a escultura de sua presa confunde os sobreviventes.
+
+Os sobreviventes olham para o arranjo, tentando recolher a substância da inteligência bizarra e desumana do Leão Branco. Cada sobrevivente ganha +1 de compreensão e +1 de insanidade.
+
+/
+
+O Leão Branco marcou esta área.
+
+Se qualquer sobrevivente tiver 3+ compreensão, eles perceberão que a área está coberta de amônia. Se eles ainda não o inovaram, o assentamento do sobrevivente ganha a inovação Amônia.
+
+/
+
+Enquanto os sobreviventes perseguem o Leão Branco, o monstro caça outra coisa. Mova o Leão Branco um espaço de distância dos sobreviventes no tabuleiro de caça em busca de sua presa.
+
+O White Lion começa o confronto com Ground Fighting em jogo (construa seu deck de IA normalmente).
+
+/
+
+Marcas de garras marcam o chão. Os sobreviventes podem decidir investigar. Cada sobrevivente que investiga ganha +1 de coragem e rola na mesa.
+
+1 - 3 Peneirando os escombros, uma pedra em movimento esmaga as mãos do sobrevivente. O sobrevivente sofre 1 dano de evento no local dos braços.
+
+4 - 8 Nada acontece
+
+9 - 10 Um prêmio nos escombros sob os pés. Ganhe 1 recurso de Leão branco com garras de leão.
+
+/
+
+Campos de grama dourada estavam à frente. O revelador de eventos pode escolher evitar as planícies e rolar duas vezes na mesa de eventos de caça antes de se mover no tabuleiro de caça. Caso contrário, cada sobrevivente ganha +1 de coragem e o revelador de eventos rola na mesa.
+
+1 - 3 A presa deles estava espreitando na grama. Comece o confronto imediatamente. O monstro embosca os sobreviventes.
+
+4 - 7 Os sobreviventes circundam a grama alta, perdidos. Role na tabela de eventos de busca antes de retornar ao quadro de eventos de busca.
+
+8 - 10 Você pega a trilha. Escolha mover o Leão Branco um espaço para frente ou para trás no quadro de eventos de caça.
+
+/
+
+Os sobreviventes encontram um filhote de leão branco. Eles podem escolher matar o filhote. Se o fizerem, cada sobrevivente ganha 1 recurso básico aleatório. O revelador de eventos rola na tabela abaixo.
+
+1 - 3 A mãe leoa aparece. Dominado pela dor, ela ataca. O Leão Branco começa este confronto com Enraged em jogo (construa seu deck de IA normalmente).
+
+4 - 7 O pai leão aparece. Comece o confronto imediatamente.
+
+8 - 10 Nada acontece.
+
+

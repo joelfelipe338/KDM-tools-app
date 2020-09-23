@@ -1,0 +1,80 @@
+
+O chão está coberto por um tapete de enormes carrapatos se contorcendo.
+
+Cada sobrevivente deve tentar afastar o enxame. Role 1d10 e adicione sua EXP de Caça ao resultado.
+
+Com um resultado de 6+, você esmaga com sucesso os carrapatos em uma chuva de sangue.
+
+Caso contrário, em um resultado abaixo de 6, os carrapatos deixam você doente. Reduza sua sobrevivência para 0. Jogue 1d10. Com um resultado de 8+, sofre -1 de força permanente.
+
+/
+
+Os sobreviventes são atingidos pelo cheiro de carne podre que vem de um cadáver enorme à frente.
+
+O revelador do evento pode levar os sobreviventes a investigar. Se o fizerem, ganhe 1 recurso de vermes aleatórios, 2 recursos de Antílope Screaming aleatórios e role 1d10. Em um resultado de 7 ou mais, os sobreviventes se assustam com a chegada do assassino do antílope, um Leão Branco.
+
+Acabe a caça agora. Comece um confronto com um Leão Branco 1 nível acima da pedreira ou o nível mais alto disponível, usando suas regras de configuração. Adicione uma carta de terreno de Monstro Morto ao confronto.
+
+Role o evento de caça aleatório: se eles não investigarem.
+
+/
+
+O solo de face de pedra está coberto de restos de feras vorazes que passam. Plantas de acanto meio comidas estão espalhadas por toda parte.
+
+Se qualquer sobrevivente tiver mais de 3 de compreensão, os sobreviventes podem pular o próximo espaço de caça.
+
+Caso contrário: Role o evento de busca aleatório
+
+/
+
+Folhas de acanto brotam das fendas no solo de pedra. Os sobreviventes passam muito tempo colhendo e comendo as folhas pequenas.
+
+Cada sobrevivente pode curar qualquer local de acerto de sua escolha, restaurando todos os níveis de lesão e pontos de armadura
+
+Se qualquer sobrevivente tiver uma foice, ele ganha 1 recurso estranho de Acanto fresco.
+
+Role um evento de caça aleatório.
+
+/
+
+Alguma força invisível desencadeou uma migração massiva. Nada resta além de plantas de acanto arrancadas e solo despedaçado e arruinado por cascos.
+
+Mova os espaços do Screaming Antelope 3 para longe dos sobreviventes no tabuleiro de caça.
+
+/
+
+Em pânico com os sobreviventes que se aproximam, o Antílope Screaming move-se 1 espaço de distância dos sobreviventes no tabuleiro de caça.
+
+Role um evento de caça aleatório.
+
+/
+
+Um estrondo estrondoso se aproxima. Os sobreviventes podem se esconder. Se o fizerem, mova a pedreira 1 espaço de distância dos sobreviventes no tabuleiro de caça.
+
+Caso contrário, todos os sobreviventes ganham +1 de coragem e o revelador de eventos rola 1d10.
+
+1 - 3 atropelado. Todos os sobreviventes sofrem 2 danos de evento para cada local de acerto.
+
+2 - 7 No caos, os sobreviventes vislumbram o monstro que assustou o Antílope Gritante. Todos os sobreviventes sofrem 2 danos cerebrais e apagam o que viram da memória.
+
+8+ Os sobreviventes encurralam um dos antílopes em disparada. Comece o confronto imediatamente.
+
+/
+
+Os sobreviventes encontram uma trilha de grandes dentes podres espalhados pelo chão. Cada sobrevivente pode limpar. Role 1d10 na mesa.
+
+1 Você se cortou nos cacos afiados. Sofra 1 dano de evento no local atingido pelos braços.
+
+2 - 6 Você não encontra nada útil.
+
+7 + Um dente intacto. Ganhe 1 recurso de Antílope Gritante de dente grande e chato.
+
+/
+
+Os sobreviventes encontram os restos meio digeridos da última refeição de sua presa. Cada sobrevivente pode limpar, ganhar +1 de coragem e rolar na mesa.
+
+1 - 4 Doente. Arquive todos os equipamentos consumíveis.
+
+5 - 8 Você encontra algo não digerido e o come, ganha +1 de sobrevivência.
+
+9+ O antílope está visivelmente doente, vomitando pedaços de si mesmo. Ganhe +1 de compreensão e 1 recurso de Antílope Gritante aleatório.

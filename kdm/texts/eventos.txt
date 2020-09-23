@@ -1,0 +1,1138 @@
+
+
+Os sobreviventes sentem algo sendo esmagado sob seus pés. O revelador de eventos pode escolher abaixar sua lanterna e investigar ou ignorar a sensação e continuar sua jornada.
+
+Se eles decidirem investigar, o revelador de eventos ganha +1 de coragem e rola 1d10 . Caso contrário, role novamente na tabela de eventos de busca antes de mover na placa de eventos de busca .
+1d10 	Revelador de eventos - investigue
+
+1 - 5 	Você se atrapalha e corta o pé em um fragmento dentado. Sofra dano de evento de nível de monstro em suas pernas .
+
+6 - 8 	Você salva algo útil. Gail 1 recurso básico de lanterna quebrada .
+
+9+ 	Os sobreviventes descobrem um esconderijo de lanternas há muito abandonado. A visão desamparada os enche de pavor, cada sobrevivente define sua insanidade para 0. Depois de se recompor, cada sobrevivente coleta 1 lanterna quebrada como recurso básico; adicione-os ao armazenamento de liquidação . 
+
+/
+
+Os sobreviventes são tomados por um calafrio repentino, e sua respiração fica presa nos pulmões. Os dentes dos sobreviventes batem impiedosamente. Todos os sobreviventes perdem a sobrevivência de nível de monstro. No centro da geada repentina está um cadáver perfeitamente preservado.
+
+Se o assentamento tiver Canibalizar, o revelador de eventos ganha 1 recurso básico aleatório.
+
+Se o assentamento tiver Túmulos, o revelador de eventos examina o cadáver e ganha +1 coragem e +1 compreensão.
+
+Se o assentamento tem Momento Mori, o revelador do evento entende um pouco sobre o que aconteceu com o cadáver. Eles ganham 1 arte de luta aleatória.
+
+/
+
+Os sobreviventes estão rodeados pelo eco de murmúrios infantis. Estranhos pássaros com cara de bebê circulam acima. Tomados de horror instintivo, os sobreviventes começam a correr!
+
+Cada sobrevivente rola 1d10. O sobrevivente com menor pontuação (ou sobreviventes, em caso de empate) torna-se um retardatário. Se algum sobrevivente tiver equipamento barulhento, -2 em seu teste. Cada retardatário rola 1d10.
+
+Se algum sobrevivente tiver um chicote, eles o estalam, espalhando muitos pássaros. Cada retardatário adiciona +4 ao seu teste.
+1d10 Straggler
+
+1 - 3 Correndo e se debatendo descontroladamente, de repente você se encontra em pânico e sozinho. Os pombos cancerosos que aguardam descem e bicam suas costas impiedosamente, seus arrulhos felizes enchendo sua cabeça de horror. Uma hora depois, os outros sobreviventes o encontram enrolado e chorando no chão. Você está morto por dentro: você não pode sobreviver. Registre esta deficiência.
+
+4 - 6 Um pombo canceroso se agarra às suas costas! Sacuda-o gastando 1 sobrevivência. Caso contrário, você está morto por dentro: você não pode ganhar a sobrevivência. Registre esta deficiência.
+
+7 - 8 Você escapa das terríveis criaturas.
+
+9+ Você consegue derrubar uma das criaturas nojentas. Ganhe 1 recurso básico aleatório.
+
+/
+
+O caminho à frente é árido e morto. Você pode fazer com que os sobreviventes ganhem +1 de coragem e prossigam. Caso contrário, role novamente na mesa de eventos de busca antes de mover no quadro de busca.
+
+Se você continuar, seus estômagos roncarão no escuro enquanto você tropeça para frente. Os sobreviventes juntam seus suprimentos. O revelador de eventos rola 1d10 e adiciona +2 à sua jogada para cada equipamento consumível ou recurso que o grupo possui.
+Revelador de eventos 1d10
+
+1 - 8 A caça cobra seu preço. Poderosas pontadas de fome se instalam. Todos os sobreviventes ganham -1 ficha de velocidade.
+
+9 - 14 Você consegue protelar a fome terrível.
+
+15+ Todos ficam revigorados com seu lanche. Cada sobrevivente ganha +1 de sobrevivência.
+
+/
+
+À frente, as faces de pedra no chão dão lugar a um campo de furúnculos carnudos do tamanho de um homem que brotam de cabelo preto espesso. O terreno sinuoso irradia calor úmido. Durante a viagem, cada sobrevivente sofre exaustão pelo calor, perdendo 1 de sobrevivência .
+
+O revelador de eventos rola 1d10 . Se algum sobrevivente tiver uma foice , eles ajudam a abrir caminho cortando o cabelo preto e espesso. Adicione +4 ao seu teste.
+1d10 	Revelador de eventos
+
+1 	O revelador de eventos contrai uma doença comedora de carne passando pelos furúnculos gigantes! um membro aleatório é afetado e deve ser amputado imediatamente! Role 1d10, 1 - 5: braços , 6 - 10: pernas . Sofra o ferimento grave desmembrado neste local .
+
+2 - 3 	Se algum sobrevivente for louco , eles imaginam que os campos carnais estão atacando! Eles ficam histéricos, se debatendo e se enrolando nos cabelos grossos. Cada sobrevivente insano sofre dano de evento de nível de monstro em um local aleatório.
+
+4 - 7 	Está quente e nojento, mas os sobreviventes passam pelos campos carnais sem complicações.
+
+8 - 9 	O revelador de eventos tira o melhor proveito de uma situação ruim e corta uma parte da carne. Ganhe 1 recurso básico de ocultar .
+
+10+ 	Cada sobrevivente coleta 1 recurso básico de esconder dos campos de carne.
+
+/
+
+Os sobreviventes encontram uma estátua sem rosto segurando uma lanterna brilhante. Aproveitando a luz quente, os sobreviventes são renovados. Cada sobrevivente ganha 1 sobrevivência.
+
+Se o assentamento tem escultura, os sobreviventes apreciam profundamente a habilidade sutil do artista. Cada sobrevivente rola 1d10. Ganhe tantos sobreviventes e +1 compreensão.
+
+Os sobreviventes podem descansar aqui por mais tempo. Se o fizerem, cada sobrevivente cura todos os níveis de lesão e pontos de armadura perdidos em 1 local de acerto. No entanto, eles perdem o controle de sua presa. Mova-o 1 espaço de distância dos sobreviventes no tabuleiro de caça. Se um sobrevivente cura mais de 5 pontos de armadura perdidos dessa maneira, ele fica olhando para a luz brilhante por muito tempo e ganha 1 desordem aleatória.
+
+Se todos os sobreviventes são insanos, eles não podem descansar mais.
+
+/
+
+O chão se divide de repente e uma boca de pedra escancarada tenta devorar o revelador de eventos inteiro! O revelador de eventos rola 1d10.
+
+Se outro sobrevivente tiver um chicote, ele atira uma linha para o revelador de eventos. Adicione +4 ao seu teste.
+Revelador de eventos 1D10
+
+1 Com um grito abafado, você desaparece no chão. Você consegue se agarrar a uma saliência precária acima da boca aberta. Perca toda a sobrevivência enquanto você escala desesperadamente em segurança. Se você não tivesse nenhum, você cairia. Os ossos se esmagam entre os dentes de pedra. Você é devorado inteiro. Morto.
+
+2 - 5 Você luta, mas sua perna fica presa na terrível boca. Sofra 2 danos de evento nas pernas.
+
+6 - 9 Você consegue pular no tempo!
+
+10+ Burp! Gorgolejo! O chão vomita um pedaço brilhante de sucata. Ganhe 1 recurso básico de lanterna quebrada.
+
+/
+
+Um gemido constante segue os sobreviventes. Eventualmente, eles entram em uma área envolta em névoa espessa e o lamento atinge um nível febril.
+
+Todo sobrevivente não surdo rola 1d10. Se todos os sobreviventes forem surdos, eles continuam, sem se importar com a cacofonia: acabe com esse evento. O sobrevivente com menor pontuação (ou sobreviventes, em caso de empate) torna-se um retardatário. Cada retardatário rola 1d10. Se qualquer sobrevivente tiver equipamento barulhento, o retardatário adiciona +2 ao teste.
+
+Se algum sobrevivente tiver equipamento barulhento e o povoado tiver tambores, ele se opõe aos lamentos com uma melodia de casa. Não role na mesa e cada sobrevivente ganha +2 de insanidade e +2 de sobrevivência.
+1d10 Straggler
+
+1 - 3 A névoa ao seu redor fica preta e se enche de formas de rostos atormentados. Você é levado à loucura. Ganhe 1 desordem aleatória.
+
+4 - 6 A névoa torna-se uma sopa e começa a uivar. Você tapa os ouvidos com os dedos, mas não adianta. Sofra dano de evento cerebral de nível de monstro.
+
+7 - 9 Você enfia os polegares nas orelhas e começa a correr, deixando a fumaça uivante.
+
+10+ Imitando a fumaça perturbadora, você calmamente começa a gemer com ela. Ganhe +2 de insanidade.
+
+/
+
+Uma luz dourada cega os sobreviventes, parando-os em seu caminho. A luz brilha de uma única fonte. O revelador do evento é obrigado a investigar. Eles ganham +1 de coragem e rolam 1d10.
+
+Se o revelador de eventos for cego, eles andam na direção errada e ganham +3 de insanidade. Role novamente na mesa de eventos de busca e não investigue a luz.
+Revelador de eventos 1d10 - investigue
+
+1 - 3 A luz é insuportável. Sua mente frágil não consegue entender suas palavras silenciosas. Ganhe 1 desordem aleatória.
+
+4 - 8 Você vagueia pela luz, banhado por uma sensação calorosa e terrível. Você não encontra nada além de exposição. Sofra dano de evento de nível de monstro em um local de acerto aleatório.
+
+9+ Algo sobre a luz o mexe e sua determinação se intensifica. Ganhe +1 de sobrevivência.
+
+/
+
+Este evento não pode ser relançado ou evitado de forma alguma.
+
+O solo estremece e racha sob os sobreviventes. Um verme colossal surge de baixo, sua pele é um mosaico de rostos gritando. A simples visão disso é enlouquecedora.
+
+Todos os sobreviventes ganham 1 desordem aleatória e devem gastar 1 sobrevivência ou serão devorados inteiros. Se algum sobrevivente tiver equipamento barulhento, o Coletor será atraído pelo som e eles serão imediatamente devorados. Nada pode salvá-los.
+
+A criatura é tão horrível que os cérebros dos sobreviventes apagam a experiência de suas memórias. Não obtenha os benefícios de seu princípio de morte.
+
+/
+
+Os sobreviventes encontram alguns excrementos de monstros, como os de sua presa. O revelador de eventos escolhe entre investigar ou consumir os excrementos (escolha apenas um).
+
+Se o revelador de eventos investigar, ganhe +1 compreensão e jogue 1d10.
+Revelador de eventos 1d10 - investigue
+
+1 - 3 Você descobre o quão repugnante é brincar com fezes. Perdeu 1 sobrevivência e role novamente na mesa de eventos de caça antes de mover para o tabuleiro de caça.
+
+4 - 6 Os excrementos contam uma história. Você está no caminho certo. Ganhe +1 de sobrevivência.
+
+7 + Você conhece bem esses excrementos. Você pode pular o próximo espaço de caça. Se esse movimento iniciar o confronto, os sobreviventes emboscarão sua presa.
+
+
+Se o revelador de eventos consumir, ganhe +1 de coragem e role 1d10.
+Revelador de eventos 1d10 - Consumir
+
+1 - 3 Parece que você não foi o único com essa ideia! Você tenta tossir o lixo, mas sua boca está cheia de parasitas se contorcendo! Eles escavam para cima, através da cavidade nasal, até o cérebro. De agora em diante, você sempre se sente um pouco tonto. Sofra -1 de evasão permanente.
+
+Além disso, se você tiver o transtorno quixótico, os parasitas saborearão a atividade neural única de seu cérebro, alimentando-se incansavelmente e excretando resíduos que alimentam ainda mais sua loucura. Ganhe +10 de insanidade e a desordem Imortal. Seu transtorno quixótico nunca pode ser removido por qualquer motivo.
+
+4 - 6 É repulsivo. Seu título se torna "Scat Man". Todos no assentamento devem chamá-lo por esse nome de agora em diante.
+
+7 + Havia algo muito especial sobre as fezes. Ganhe +1 de velocidade e +1 de ficha de força.
+
+/
+
+Os sobreviventes sentem coletivamente um nível elevado de expectativa. Seu objetivo está próximo. O revelador de eventos ganha +1 de coragem! Os sobreviventes podem pular o próximo espaço de caça. Se esse movimento iniciar o confronto, os sobreviventes emboscarão sua presa.
+
+/
+
+O revelador de eventos cai de joelhos, soluçando incontrolavelmente. Eles simplesmente beberam demais. Eles perdem 1d10 de sobrevivência e ganham 1 desordem aleatória.
+
+Se o assentamento tem Aceitar Escuridão, o revelador de eventos abraça seu desespero. Role 1d10.
+Revelador de eventos 1d10
+
+1 - 5 As profundezas da sua miséria são mais profundas do que você jamais poderia imaginar. Ganhe distúrbios até ter 3 deles. Perca toda a sobrevivência.
+
+6+ Você afunda até o fundo de sua miséria e então raspa seus próprios alicerces, faminto por mais! Você descobre uma raiva primitiva em torno de um núcleo de calma serena. Ganhe +1 de compreensão e o transtorno Rageholic.
+
+
+Se o assentamento tem o Trabalho Coletivo, eles lentamente se colocam de pé, prometendo nunca perder as esperanças. Role 1d10.
+Revelador de eventos 1d10
+
+1 - 5 Você se levanta, lágrimas silenciosas escorrendo pelo seu rosto. Com o assentamento nas suas costas, você está pronto para enfrentar a escuridão. Ganhe +1 de coragem e + 1d10 de sobrevivência.
+
+6+ Você toca brevemente o fundo de sua miséria e retorna à plena consciência com novas experiências para compartilhar. Se algum sobrevivente retornar ao assentamento este ano, ganhe +2 esforços.
+
+/
+
+Os sobreviventes encontram uma criança descalça e encantadora com os pés cobertos de fuligem. Se você já rolou este evento nesta caçada, ou se todos os sobreviventes estão loucos, ela vira as costas e desaparece na escuridão. Role novamente na mesa de eventos de busca antes de mover-se no quadro de busca.
+
+Caso contrário, exclamando descontroladamente para os sobreviventes, a presença da mulher enche a todos com a estranha sensação de esperança. Todos os sobreviventes ganham +1 coragem e +1 compreensão.
+
+Se o assentamento tem Hovel, ela estala os dedos e envelhece diante de seus olhos! Um arrepio percorre os sobreviventes. Seus corpos e armaduras se entrelaçam espontaneamente. Cure todos os níveis de lesão e pontos de armadura perdidos. Em seguida, ela puxa um sobrevivente aleatório de lado e sussurra segredos da caçada que se aproxima. Eles ganham +1 token de precisão.
+
+/
+
+O revelador de eventos traz uma terrível armadilha! Role 1d10.
+Revelador de eventos 1d10
+
+1 - 2 Com um estrondo terrível, as mandíbulas de aço da armadilha humana cortaram seu pé de maneira limpa. Sofra ferimentos graves na perna desmembrada.
+
+3 - 6 perna mutilada. Destrua toda a armadura no local das pernas e sofra 1 evento de dano nas pernas.
+
+7 - 9 A armadilha é bastante velha e fraca. Sofra 1 evento de dano nas pernas.
+
+Mais de 10 O pé do revelador de eventos cai na armadilha, assustando todos! No entanto, ele já estava suspenso, deixando um prêmio infeliz em suas mandíbulas. Ganhe 1 recurso básico aleatório.
+
+/
+
+Seu sono miserável é atormentado por pesadelos alucinantes. Cada sobrevivente rola 1d10. Se o resultado for maior do que sua insanidade, eles aprendem algo com o horror ao despertar e ganham +1 de compreensão. Caso contrário, eles ganham 1 desordem aleatória.
+
+Se algum sobrevivente for um salvador ou possuir a arte de luta Extra Sense, ele desaparecerá no sonho, emergindo da escuridão horas depois. Eles ganham +4 XP de Caça e um recurso básico aleatório.
+
+/
+
+Em meio ao mar de faces de pedra, chama-se a atenção do revelador de eventos. Eles se sentem compelidos a investigar. Ganhe +1 de coragem e role 1d10.
+Revelador de eventos 1d10 - investigue
+
+1 O rosto é idêntico ao seu. Gaste 1d5 de sobrevivência ou reduza sua compreensão a 0.
+
+2 - 7 O rosto lembra você de alguém querido. Seu coração dói de solidão. Se sua sobrevivência for maior que sua insanidade, sofra danos por eventos cerebrais de nível de monstro.
+
+8+ O rosto é seu, mas mais velho e sábio. Ganhe +1 sobrevivência e +1 compreensão.
+
+/
+
+Você encontra uma planta estranha crescendo nos olhos de um rosto de pedra. O revelador de eventos tenta colhê-lo. Role 1d10. Se algum sobrevivente tiver uma foice, adicione +4 ao teste.
+Revelador de eventos 1d10
+
+1 - 7 Tente o quanto puder, você não pode arrancar a erva daninha profundamente enraizada.
+
+8+ Você puxa a erva daninha gratuitamente! Tem um enorme poder regenerativo. Cada sobrevivente esfrega em sua pele e remove 1 lesão grave permanente. Em seguida, ele se desfaz em pó em suas mãos.
+
+/
+
+Os sobreviventes estão envolvidos por uma escuridão úmida que escurece as luzes das lanternas. Eles se separam um do outro e se perdem irremediavelmente. Se um sobrevivente tem a arte de luta do Líder, eles corajosamente avançam na escuridão úmida e reúnem todos. Caso contrário, cada sobrevivente rola 1d10. O sobrevivente com menor pontuação (ou sobreviventes, em caso de empate) torna-se um retardatário. Cada retardatário rola 1d10.
+1d10 Straggler
+
+1 - 2 Você tropeça e cai nos ossos de um monstro antigo, quebrando um pedaço de equipamento no caminho para baixo. Arquive 1 engrenagem de sua escolha de sua grade de engrenagem.
+
+3 - 5 Algo não visto ataca você, sofre 1 dano por evento cerebral e 1 dano por evento em um local aleatório.
+
+6 - 8 Você bate no nariz de um rosto de pedra gigante! Sofre 1 dano por evento principal.
+
+9+ Você não tem certeza de como, mas sai da escuridão com as mãos ocupadas. Ganhe 1 recurso básico aleatório.
+
+/
+
+Conforme os sobreviventes avançam, o ar fica seco e o solo racha. Os sobreviventes sofrem exaustão pelo calor. Cada sobrevivente perde 1 sobrevivência. Se eles estiverem usando pele ou equipamento pesado, eles perdem 1d5 de sobrevivência.
+
+Se algum sobrevivente tiver uma picareta, os sobreviventes abrem uma veia de aparência interessante no chão rachado. Ganhe 1 recurso estranho de Ferro.
+
+/
+
+Encolhidos em uma caverna, os sobreviventes encontram desenhos estranhos decorando as paredes. Eles parecem conter uma mensagem. Qualquer sobrevivente com 3+ de compreensão pode tentar decifrar os desenhos rolando 1d10. Se o assentamento tiver Pictogramas, cada sobrevivente pode rolar (independentemente de sua compreensão) e adicionar +4 a seus testes.
+1d10 Qualquer sobrevivente com 3+ compreensão
+
+1 - 3 Seu nariz começa a sangrar. Sofra dano de evento cerebral de nível de monstro.
+
+4 - 7 O verdadeiro significado escapa de você. Ganhe +1 de insanidade.
+
+8+ Os desenhos ensinam uma nova maneira de lutar contra monstros! Ganhe +1 de sobrevivência e uma arte de luta aleatória.
+
+/
+
+A escuridão acima é repentinamente iluminada com uma tempestade de chuva ácida. O cheiro é terrível, queima carne e forma poças sibilantes nas bocas viradas para cima das faces de pedra. Todos os sobreviventes sofrem dano de evento de nível de monstro em cada local de acerto enquanto lutam para encontrar abrigo.
+
+Se o assentamento tiver escultura, os sobreviventes assistem silenciosamente à tempestade erodir as faces de pedra, apagando suas feições. Eles se perguntam exatamente quem ou o que conserta os rostos quebrados, se é que existe tal coisa. Os sobreviventes compartilham uma risada sombria, cada um ganhando nível de sobrevivência de monstro.
+
+Role 1d10. Com 6+, a tempestade volta para casa. Adicione o evento de liquidação da tempestade ácida à linha do tempo no próximo ano.
+
+/
+
+Os sobreviventes passam por uma fonte abandonada em forma de rosto de leão. Um jato de água cristalina sai de sua boca. Cada sobrevivente consome a água, ganhando +1 de sobrevivência e +1 de coragem. Qualquer número de sobreviventes pode mergulhar a cabeça na água e rolar 1d10.
+1d10 Qualquer sobrevivente
+
+1 - 2 No instante em que fica molhado, seu cabelo fica totalmente branco. Ganhe 1 desordem aleatória
+
+3 - 5 Seu cabelo está molhado. Parabéns.
+
+6 - 8 A água é estimulante. Ganhe compreensão +1 ou remova um distúrbio de sua escolha.
+
+9+ A água está terrivelmente fria! Ele se precipita sobre você como um maremoto e o deixa pasmo. Defina sua insanidade como 0 e remova todos os distúrbios.
+
+/
+
+Os sobreviventes passam por um rosto de pedra que parece estar segurando algo na boca. O revelador de eventos investiga. Ganhe +1 de coragem e role 1d10.
+Revelador de eventos 1d10 - investigue
+
+1 - 2 Você grita de dor e puxa a mão para trás, revelando um corte com sangue. A face de pedra acabou de morder? Sofra dano de evento cerebral de nível de monstro e dano de braço de evento de nível de monstro.
+
+3 - 5 Não há nada. Foi apenas um truque da luz da lanterna.
+
+6 - 8 Mais pedras, o que você esperava? Ganhe 1 equipamento inicial de Pedra da Fundação.
+
+9+ Você retira uma massa mastigada. Ganhe 1 recurso básico aleatório e 2 insanidade.
+
+/
+
+Um berro ensurdecedor marca a passagem de uma fera verdadeiramente titânica. Todos os sobreviventes não surdos sofrem dano por evento cerebral de nível de monstro. Os sobreviventes se encolhem no chão, deitando-se o mais horizontalmente possível e torcendo para que sejam pequenos demais para valer a pena serem comidos.
+
+Cada sobrevivente rola 1d10. O sobrevivente com a pontuação mais baixa (ou sobrevivente em caso de empate) torna-se um retardatário. Se algum sobrevivente tiver equipamento barulhento, -2 em seu teste.
+
+Cada retardatário rola 1d10.
+1d10 Straggler
+
+1 Você é arrancado do chão e comido inteiro. Morto. Se o assentamento tiver Sobrevivência do mais apto, você sai de sua boca e pousa com um baque. Sofra ferimentos graves no braço e na perna quebrados, mas não morra.
+
+2 - 4 Algo agarra você em sua grande boca e o mastiga por 1 de dano de evento em 1d5 locais de acerto aleatórios.
+
+5 - 6 As mandíbulas de fixação quase não o afetam! Sofra dano de evento de nível de monstro em um local de acerto aleatório.
+
+7 - 9 Você se torna ainda mais plano contra o solo e evita qualquer coisa terrível.
+
+10+ Você nunca vai parar de fugir do que viu. Ganhe +1 de movimento permanente.
+
+/
+
+O solo sob os pés do revelador de eventos cede e eles caem em um poço abaixo. O revelador de eventos rola 1d10.
+
+Se outro sobrevivente tiver um chicote, eles jogam uma linha a tempo, não role na mesa.
+
+Se o revelador de eventos tiver a arte de luta da queda, ele agilmente alcançará uma saliência e se arrastará para cima; ganhe +1 ficha de velocidade e não role na mesa.
+Revelador de eventos 1d10
+
+1 Você pousa com uma trituração nauseante, mutilando as pernas. Sofra duas lesões graves na perna quebrada.
+
+2 - 3 Sua perna amortece sua queda. Sofra uma lesão grave na perna quebrada.
+
+4 - 6 Você cai no fundo com um baque forte. sofra 2 danos de evento em um local de acerto aleatório e arquive todos os equipamentos frágeis em sua grade de equipamentos.
+
+7 - 9 Você pousa no fundo com um baque suave. Sofra 1 dano de evento em um local de acerto aleatório.
+
+10+ Você consegue se agarrar à borda do buraco e escapar ileso.
+
+/
+
+Exaustos, os sobreviventes descansam. Durante o sono agitado, um pequeno inseto se aproxima sem ser detectado. Escolha 1 sobrevivente masculino aleatório e role na mesa. Se não houver sobreviventes do sexo masculino, nada acontece.
+
+Se o sobrevivente escolhido tiver a arte de luta do Lutador Inconsciente, ele esmagará o inseto enquanto ainda ronca; não role sobre a mesa. Eles acordam, confusos, com um recurso de vermes aleatórios em suas mãos.
+
+1d10 sobrevivente masculino aleatório
+
+1 - 5 Quando você acorda, seus órgãos genitais foram roubados. Em seu lugar não há nada além de pele lisa. Sofra ferimentos graves nos órgãos genitais destruídos.
+
+6+ Você acorda assustado com a aproximação de pinças ameaçadoras. Suas defesas são rápidas. Sem pensar, você esmurra o inseto rastejando em suas calças, sofrendo 1 evento de dano na cintura.
+
+/
+
+Um pássaro amarrotado e feio fica no caminho do sobrevivente. Seus olhos úmidos e redondos piscam em expectativa e ele grita com uma risada humana misteriosa. Os sobreviventes podem arquivar 1 item consumível ou equipamento, oferecendo-o ao pássaro troll. Se algum sobrevivente for louco, eles devem alimentar o trollbird, se possível. Se eles alimentarem o trollbird, ele pula fora com uma gargalhada terrível.
+
+Se eles não alimentarem o pássaro troll, ele segue os sobreviventes em sua caçada, zombando deles constantemente com sua risada. Role 1d10. Se algum sobrevivente tiver o transtorno de Coprolalia, ele xingará o pássaro e fará gestos vigorosos e vulgares. O pássaro está impressionado. Adicione 3+ ao seu rolo.
+Revelador de eventos 1d10
+
+1 - 5 O trollbird faz um barulho terrível, alertando o monstro. Todos os sobreviventes ganham +1 de compreensão. No início do confronto, o monstro embosca os sobreviventes.
+
+6+ O trollbird zomba e distrai o monstro enquanto os sobreviventes se aproximam. Todos os sobreviventes ganham +1 de insanidade. No início do confronto, os sobreviventes emboscam o monstro.
+
+/
+
+Os sobreviventes se cruzam com um homem alto e estranhamente magro em um manto com capuz. Onde seus pés tocam o solo, faíscas iluminam seu caminho.
+
+Cada sobrevivente com 3+ de coragem pode dar a ele uma peça de equipamento de sua grade de equipamentos e rolar na mesa. Se eles tiverem a desordem honrosa, adicione 3+ ao teste.
+1d10 Qualquer sobrevivente com 3+ coragem
+
+1 - 2 A criatura leva o objeto à boca e o come. Foi-se. Arquive o cartão de equipamento.
+
+3 - 6 A criatura recusa a carta de equipamento e encara você com um único olho grande. Sofre 1d10 dano cerebral.
+
+7 - 8 A criatura torce a mandíbula e come o equipamento. Em troca, ele lhe entrega um escudo brilhante. Ganhe o 
+equipamento raro Escudo de Aço.
+
+9+ A criatura abre sua mandíbula e come a peça do equipamento. Em troca, ele entrega a você uma espada brilhante. Ganhe o equipamento raro de Espada de Aço.
+
+/
+
+As faces de pedra começam a ceder sob os pés do sobrevivente. Eles estão inchados e cheiram horrivelmente. Cada sobrevivente rola 1d10.
+1d10 cada sobrevivente
+
+1 Seu pé fica preso e você rapidamente começa a afundar no chão. Depois de uma luta, você consegue se libertar. Se você tivesse uma armadura de perna, ela se perderia na lama. Gaste 3 sobreviventes ou arquive o equipamento.
+
+2 - 5 Mired, você luta para se libertar! Role novamente nesta mesa ou gaste 1 sobrevivência para escapar.
+
+6 - 9 Você escapa sem incidentes.
+
+10+ Você encontra algo nojento se arrastando pela podridão! Ganhe 1 recurso básico aleatório.
+
+/
+
+Os sobreviventes param no início de um caminho. Pequenas lanternas cintilam, marcando suas bordas.
+
+O revelador de eventos decide se os sobreviventes seguem ou não o caminho. Se o revelador de eventos for louco, eles devem. Se os sobreviventes seguirem o caminho, o revelador de eventos ganha +1 de compreensão e então rola 1d10 e adiciona sua compreensão.
+
+Caso contrário, role novamente na mesa de eventos de busca antes de mover no quadro de busca.
+Revelador de eventos 1d10
+
+1 Um dedo colossal desce de cima, esmagando um sobrevivente aleatório. Eles sofrem 2 danos de evento para cada local de acerto.
+
+2 - 4 Um sobrevivente aleatório arranca histericamente ao longo de um galho no caminho. Eles voltam horas depois, pálidos como um fantasma e sem nenhuma lembrança do que aconteceu. Eles perdem a sobrevivência 1d10.
+
+5 - 7 O caminho se torce e se transforma vertiginosamente na escuridão. Todos os sobreviventes sofrem 1 dano de evento cerebral e o revelador de eventos rola novamente nesta mesa, adicionando 2+ ao seu teste.
+
+8 - 9 O caminho leva os sobreviventes a um grande rosto de pedra com lanternas no lugar dos olhos. Dentro de sua boca aberta há uma generosidade. Cada sobrevivente ganha 1 recurso básico aleatório.
+
+10+ O caminho leva à besta que você está caçando! Os sobreviventes emboscam o monstro.
+Se algum sobrevivente tiver a desordem de honra, eles perceberão a loucura de seus caminhos e podem remover a desordem. Se algum sobrevivente permanecer honrado, ele anuncia sua presença ao monstro: o monstro embosca os sobreviventes.
+
+/
+
+O revelador do evento é devastado por uma cacofonia penetrante em sua cabeça. Role 1d10. Se o resultado for menor ou igual à sua insanidade atual, eles enlouquecem, atacando seus compatriotas! Cada sobrevivente sofre 1 dano de evento em um local de acerto aleatório antes que o revelador de evento recupere o controle de si mesmo.
+
+Se o revelador do evento tiver a arte de luta Enlouquecida, ele obterá uma visão de seu calvário. Ganhe +10 de insanidade e +2 de compreensão.
+
+/
+
+O revelador de eventos tropeça em um nariz protuberante no chão. Os lábios de um rosto de pedra começam a se mover!
+
+Se o revelador do evento não tiver nome, os lábios param de se mover e nada mais acontece. Caso contrário, os lábios sussurram sedutoramente o nome do sobrevivente.
+
+Se o revelador do evento for louco, eles são atraídos, beijando o rosto de forma selvagem. Repulsivos e indignados, os outros sobreviventes sofrem 1 dano cerebral antes de puxar o sobrevivente enlouquecido do chão e seguir em frente.
+
+Se o revelador do evento não for louco, ele ganha +1 de compreensão, sentindo-se à beira de aprender algo.
+
+Se qualquer sobrevivente tiver a deficiência da Medula Medular, o rosto secretamente sussurra o propósito de sua vida. Eles ganham +1 de força permanente. Adicione o evento de liquidação de assassinato à linha do tempo no próximo ano.
+
+/
+
+Cada sobrevivente rola 1d10. O sobrevivente com a pontuação mais baixa (ou sobreviventes, em caso de empate) se torna o retardatário. Se algum sobrevivente (ou sobreviventes) tiver o Transtorno de Ansiedade, será o retardatário. Não role.
+
+O retardatário se perde em um momento de profunda dúvida. Eles escorregam, não tendo vontade de se segurar, e caem de uma colina íngreme de faces de pedra. Eles caem desajeitadamente com um estalo, sofrendo uma lesão grave na perna quebrada. Soluçando para si mesmos, eles entendem como sua vida é terrível e ganham +1 de compreensão.
+
+Se o retardatário tiver o transtorno da compulsão alimentar periódica, ele enxuga as lágrimas e estende a mão para uma criatura próxima, enfiando-a instintivamente na boca para se consolar. Desenhe 1 recurso de vermes aleatórios e consuma-o.
+
+/
+
+Os sobreviventes encontram as ruínas de um pequeno povoado. Cadáveres cinzentos pontilham as ruínas, desintegrando-se ao menor toque. Um forno de lanterna apagado permanece intacto no centro do povoado.
+
+O revelador de eventos rola 1d10 e adiciona sua compreensão. Se o resultado for 5+, ganhe a inovação Lantern Forno. Se o assentamento já tiver essa inovação, o revelador de eventos coleta um recurso básico de uma lanterna quebrada dos restos mortais.
+
+Se o assentamento tiver a Canção dos Valentes, o grupo pode nomear um bravo sobrevivente para investigar as ruínas do estoque de lanternas do assentamento. Eles ganham +1 de coragem e rolam 1d10.
+1d10 Sobrevivente Nomeado
+
+1 - 5 Você tenta entrar no tesouro de lanternas em ruínas, mas é dominado pelo medo, tombando e vomitando por toda parte. Quando você se levanta, você se descobre fisicamente incapaz de seguir em frente. Ganhe o transtorno apático.
+
+6+ Você é repelido pelo tesouro de lanternas em ruínas, mas demore apenas o tempo suficiente para pegar um par de insetos correndo dentro dele. Isso é o mais próximo que você se sente confortável para chegar. Ganhe 2 recursos de vermes à sua escolha.
+
+/
+
+Os sobreviventes avançam, sentindo sua presa perto. Pule o próximo espaço de caça. Se esse movimento iniciar o confronto, os sobreviventes emboscarão sua presa. Se algum sobrevivente tiver equipamento barulhento, os sobreviventes não emboscarão. Comece o confronto normalmente.
+
+/
+
+Os sobreviventes estão irremediavelmente perdidos na escuridão contínua. Mova os sobreviventes 2 espaços de volta no tabuleiro de caça.
+
+/
+
+Um enorme Gregalope está montado no horizonte, seu corpo antigo inchado com tumores e tecido cicatricial. Seus olhos leitosos avistam os sobreviventes e ele se afasta. Movidos por um desejo repentino, os sobreviventes o perseguem. O revelador de eventos rola 1d10 e adiciona seu movimento à sua jogada.
+
+Se qualquer sobrevivente tiver a arte de luta do Estrategista, eles podem encurralar o Gregalope em uma face de pedra gigante em vez de persegui-lo. Se o fizerem, termine a caça imediatamente. Comece um confronto com um Screaming Antelope nível 2, usando suas regras de configuração. Além disso, coloque um Giant Stone Face adjacente ao monstro e dê ao monstro a carta de trait Butcher's Berserker. Se os sobreviventes prevalecerem, ganhe as recompensas normais de confronto e 3 recursos adicionais de Antílope Screaming.
+Revelador de eventos 1d10
+
+1 - 6 Os sobreviventes rapidamente ficam para trás da besta majestosa. Mova 1 espaço para longe da pedreira no tabuleiro de caça.
+
+7 - 14 O Gregalope é muito rápido. Desapareceu antes que você percebesse.
+
+15 - 16 Os sobreviventes perdem Gregalope de vista, mas descobrem um caminho escondido. Você pode rolar novamente o próximo resultado na tabela de eventos de busca.
+
+17+ Antes de sair de vista, o Gregalope inclina seus chifres poderosos. A experiência muda o exausto revelador de eventos. Eles ganham +1 de movimento permanente.
+
+/
+
+Uma névoa pesada envolve os sobreviventes, obscurecendo a luz da lanterna. Role 1d10. Se o resultado for uniforme, os sobreviventes tropeçam na direção certa. Se o resultado for estranho, eles mudam; role novamente na mesa de eventos de busca antes de mover-se no quadro de eventos de busca.
+
+Se o confronto começar no próximo espaço do tabuleiro de caça, o monstro emboscará os sobreviventes.
+
+/
+
+O revelador de eventos sonha com a próxima caçada. Eles estão diante da grande besta, armas prontas, mas ela os derruba.
+
+Se o revelador de eventos tiver mais de 3 de coragem, ou se algum sobrevivente for um salvador, o revelador de eventos é encorajado pelo sonho e ganha +1 ficha de evasão. Caso contrário, o sonho é apenas chocalho. Sofra 1 dano por evento cerebral.
+
+Se algum sobrevivente tiver a Espada do Crepúsculo, eles sonham com um massacre indiscriminado. Adicione o evento de liquidação de assassinato à linha do tempo daqui a 1d5 anos.
+
+/
+
+O revelador de eventos sonha com a próxima caçada. A grande besta desaparece durante a batalha e os segue secretamente de volta ao povoado. Eles assistem impotentes enquanto ele devora tudo o que conhecem e amam. O revelador de eventos ganha + 1d10 de insanidade e -1 ficha de evasão.
+
+Se o assentamento tem um salvador, eles aparecem no sonho e defendem sua casa. O revelador de eventos ganha + 1d5 de sobrevivência.
+
+Se nenhum sobrevivente no assentamento ou grupo de caça tiver uma Espada do Crepúsculo, o revelador de eventos visualiza uma versão maníaca de si mesmo empunhando a lâmina e matando alegremente a besta. Eles acordam para encontrar uma Espada do Crepúsculo ao seu lado, zumbindo suavemente contra seu corpo. Instintivamente, o sobrevivente reconhece o peso da maldição da arma e a promessa de seu poder. O revelador de eventos ganha o equipamento raro Espada do Crepúsculo. Eles também podem selecionar Espada do Crepúsculo como seu tipo de proficiência em arma e ganhar +1 de proficiência em arma com esta arma.
+
+/
+
+Uma carruagem rangente se aproxima dos sobreviventes. Ricamente decorado em vermelho e dourado, a carruagem é entalhada em todos os lados com faces sinistras. Um olho enorme e trêmulo aparece na frente, enquanto a porta da carruagem é uma boca aberta à espera.
+
+Fora de uma pequena janela, uma mão nodosa acena. Um sobrevivente com 3+ de coragem pode escolher entrar na carroça. Eles removem uma deficiência ou lesão grave e ganham 1 desordem aleatória.
+
+/
+
+Um tapete de insetos rastejantes aponta para os sobreviventes um monstro recém-morto. Os insetos necrófagos tentam defender seu jantar, mas os sobreviventes lutam para reivindicar o prêmio.
+
+Cada sobrevivente rola 2d10 e adiciona sua EXP de Caça. O sobrevivente com maior pontuação (rolar em caso de empate) mata a maioria dos vermes e ganha o prêmio pútrido para si. Eles ganham 1 recurso básico aleatório e 1 verme aleatório
+
+/
+
+Enquanto investigam os rastros de sua presa, os sobreviventes percebem que estão caçando não um, mas dois monstros. Os dois conjuntos de trilhas logo se separam, deixando o revelador de eventos escolher quais trilhas seguir.
+
+Se eles seguirem as trilhas maiores, continue caçando normalmente. Se eles seguirem as trilhas menores, comece o confronto imediatamente. No início do confronto, o monstro sofre 5 ferimentos. Se os sobreviventes forem vitoriosos, eles ganharão metade dos recursos básicos e metade dos recursos do monstro (arredondados para cima) das recompensas no rescaldo.
+
+/
+
+Um vale de pedras brancas e afiadas se abre diante dos sobreviventes, parecendo uma boca cheia de dentes. À medida que os sobreviventes empurram e escalam as torres denteadas, eles descobrem que até mesmo o mais raso dos cortes sangra profusamente. Cada sobrevivente sofre 1 dano de evento no corpo. A menos que um sobrevivente tenha bandagens para curar seus ferimentos, todos os sobreviventes ganham 2 fichas de sangramento!
+
+Se algum sobrevivente tiver uma picareta, ele pode tentar convencer os outros sobreviventes a deixá-los investigar um pouco mais. Se eles estiverem convencidos, jogue 1d10.
+1d10 Sobrevivente carregando uma picareta - investigue
+
+1 As pedras brancas são dentes e os sobreviventes estão em uma boca gigante! Todos devem gastar 1 ponto de sobrevivência para fugir pela boca. Qualquer isídeo restante é mastigado até virar polpa. Morto. Não obtenha os benefícios de Canibalize.
+
+2 - 5 A pedra branca é extremamente dura. Quando os sobreviventes finalmente conseguem passar, uma horda de insetos sai correndo dos buracos. Ganhe 1 recurso de vermes da barata sibilante. A escavação foi demorada; role novamente na mesa de eventos de busca antes de mover-se no quadro de busca.
+
+6+ Os sobreviventes encontram uma rachadura e a expandem. Dentro está um cache escondido! Ganhe 1 recurso estranho de Ferro e 1 recurso de vermes Barata Sibilante. A escavação foi demorada; role novamente na mesa de eventos de busca antes de mover-se no quadro de busca.
+
+/
+
+Os sobreviventes chegam à beira de um rio de sangue. Sobreviventes não loucos sofrem 1 dano cerebral ao vê-lo. Os sobreviventes devem investigar para descobrir o rastro de sua presa. Cada sobrevivente rola 1d10.
+
+Se nenhum sobrevivente encontrar com sucesso a trilha do monstro, role novamente na mesa de eventos de caça antes de mover-se no tabuleiro de caça.
+1d10 cada sobrevivente - investigue
+
+1 - 2 Você perde o equilíbrio e cai no rio de sangue! Instantaneamente, um parasita enorme desce pela sua garganta, atacando suas entranhas ao entrar. Sofra uma lesão corporal grave na costela quebrada. Você espera que isso seja tudo que o parasita faz com você.
+
+3 - 5 Sua presa defecou no sangue. Sofra 1 dano de evento em um local de acerto aleatório por filtrar a água do sangue fecal por muito tempo.
+
+6 - 8 Você percebe que o rio de sangue está cheio de cadáveres inchados de monstros irreconhecíveis. Você se sente compelido a pescar alguns! Ganhe 1 recurso básico aleatório. Se você estiver usando um equipamento pesado, você cai e engole sangue e pedaços macios e inchados de monstros. Reduza sua sobrevivência para 1.
+
+9+ Você encontra com sucesso a trilha do monstro.
+
+/
+
+Um pequeno bosque de árvores ergue-se sobre uma planície sem vida. Frutas vermelhas atraentes pendem dos galhos. Cada sobrevivente deve gastar 1 sobrevivência para resistir à tentação de consumir a fruta. Sobreviventes insanos e sobreviventes com transtorno de compulsão alimentar devem consumir.
+
+Se algum sobrevivente tiver uma foice, eles esculpem uma linha na árvore, tirando sangue! A fruta azeda instantaneamente. Encerre este evento.
+
+Todos os sobreviventes que consumiram o rolo de fruta 1d10.
+1d10 Qualquer sobrevivente - consumir
+
+1 - 5 A fruta viciante destrói seu interior. Perca 1 de sobrevivência e role novamente nesta mesa. Se você não sobreviveu, sofra 2 danos de evento em um local de acerto aleatório.
+
+6+ Você arrota alto de satisfação e vai embora.
+
+/
+
+Os sobreviventes são acordados por um viajante escondido em um manto profundo. O viajante puxa o capuz e revela um rosto deformado com dois queixos afastados um do outro, cada um com sua boca sorridente.
+
+Em um estado de sonho, todos os sobreviventes entendem essa entidade conhecida como O Jogador e se eles falarem, eles morrerão. Até que o evento seja concluído, apenas o revelador do evento pode falar. Se qualquer outro jogador falar, seu sobrevivente ficará frio. Morto.
+
+Os sobreviventes devem jogar o jogo do Jogador ou ficarão presos com ele para sempre. Cada sobrevivente rola 1d10.
+1d10 cada sobrevivente
+
+1 O jogador estende a mão e pega seus dados. À medida que eles desaparecem dentro de uma dobra de sua capa, você sente todos os vestígios de ar deixando seus pulmões e não consegue respirar novamente. Morto.
+
+2 - 9 Você não perde nem ganha. Jogue novamente se desejar. Se você fizer isso, role novamente nesta mesa.
+
+10+ Você venceu. Ganhe +1 de sorte permanente.
+
+/
+
+A paisagem é pontilhada por montes grandes e inchados que escorrem pus. O menor empurrão ameaça explodi-los. Os sobreviventes podem caminhar cuidadosamente pelos montes ou correr.
+
+Pise com cuidado: você passa sem incidentes, mas seu progresso é lento. Role novamente na mesa de eventos de busca antes de mover-se no quadro de busca.
+
+Apressar: cada sobrevivente rola 1d10 e adiciona sua evasão ao resultado. Com 7 ou menos, eles detonam um dos montes de pus! Eles sofrem 2 danos de evento em um local de acerto aleatório e se tornam fedidos pelo resto deste ano lanterna.
+
+/
+
+Uma gaiola de ferro bruto balança nos galhos de uma enorme árvore. Conforme os sobreviventes se aproximam, um homem os chama da gaiola, implorando para serem libertados. Os sobreviventes podem passar por ele e sofrer 1 dano cerebral enquanto o prisioneiro chora e implora. Se os sobreviventes escolherem se libertar, o revelador de eventos rola 1d10.
+Revelador de eventos 1d10
+
+1 Os sobreviventes abrem a gaiola, mas tudo o que encontram dentro é um esqueleto. Todos os sobreviventes sofrem 2 danos cerebrais.
+
+2 - 7 O prisioneiro agradece e segue os sobreviventes até o descanso. Ao acordar, cada sobrevivente perde 1 recurso aleatório (se houver algum).
+
+8+ O prisioneiro fica grato e segue os sobreviventes para casa após o confronto. O assentamento ganha +1 população.
+
+/
+
+Os sobreviventes encontram um grupo de colonos em fuga. Se o assentamento tiver Simpósio e Linguagem, os sobreviventes conseguem se comunicar de maneira grosseira. Os sobreviventes podem oferecer um recurso ou equipamento para ajudar os refugiados em dificuldades.
+
+Em caso afirmativo, arquive a oferta. Os refugiados compartilham freneticamente sua triste história. Embora muito se perca na tradução, eles relatam a invasão selvagem de um monstro que destruiu sua casa. O conto prepara os sobreviventes para o que está por vir. No início do confronto, revele os 5 primeiros cards de IA do baralho de IA e coloque-os de volta em qualquer ordem. Se algum sobrevivente possuir a arte de luta do Líder, um dos colonos será atraído por seu carisma. Ganhe +1 população.
+
+/
+
+Insetos minúsculos e persistentes enxameiam os sobreviventes, voando em seus ouvidos e narinas. Os insetos zumbem enlouquecidamente em suas cabeças, ficando mais alto à medida que fazem seus ninhos.
+
+Cada sobrevivente rola 1d10.
+1d10 cada sobrevivente
+
+1 - 2 Você mergulha em um pântano próximo para expulsar os insetos nojentos. Funciona, mas agora você está constantemente distraído pelos minúsculos cadáveres de insetos que ocasionalmente invade. Ganhe -1 ficha de evasão.
+
+3 - 7 O zumbido pára imediatamente e as moscas partem. A rejeição deles faz você se sentir desanimado. Ganhe +1 de insanidade.
+
+8+ Os ovos deles geram incrivelmente rápido e as moscas loucas explodem de sua boca! A experiência é horrível, mas faz você se sentir tão vivo! Sofra o frenesi do trauma cerebral.
+
+Se você tem o transtorno Rageholic ou a arte de luta Berserker, dar à luz uma nova vida nojenta desperta sua raiva. Sofra novamente o frenesi do trauma cerebral.
+
+/
+
+Os sobreviventes encontram um vendedor de máscaras itinerante na estrada. Ele insiste que tem produtos especiais para oferecer.
+
+Embaralhe uma cópia de cada equipamento de máscara do local de assentamento do Mask Maker e desenhe uma aleatoriamente. O vendedor está oferecendo esta máscara. O revelador de eventos rola 1d10 para determinar o preço e então ganha a máscara.
+Revelador de eventos 1d10
+
+1 - 3 O vendedor aponta silenciosamente para você. Você instintivamente entrega a ele o preço pedido em troca da máscara. Arquive 1 engrenagem de sua escolha de sua grade de engrenagem e perca toda a sobrevivência.
+
+4 - 7 O vendedor gesticula lentamente para uma oferta. Arquive 1 engrenagem de sua escolha de sua grade de engrenagem.
+
+8+ Quando ele lhe dá a máscara, os lábios do vendedor formam os sons do seu nome. Já se foi. Dê ao seu sobrevivente um novo nome (deve ser diferente) e +1 de sobrevivência para nomear seu sobrevivente.
+
+/
+
+Ventos fortes rasgam a paisagem, coletando lascas de pedras e restos de esqueletos. Os sobreviventes se amontoam nos arredores da tempestade. Eles podem enfrentar a tempestade ou esperar que ela passe.
+
+Enfrente a tempestade: todos os sobreviventes ganham +1 de coragem e sofrem 1 dano de evento em 3 locais de acerto aleatórios. Arquive todos os equipamentos frágeis.
+
+Espere: role duas vezes na mesa de eventos de busca antes de mover para o quadro de busca.
+
+/
+
+Um deslizamento de lama leva os sobreviventes para longe.
+
+Cada sobrevivente rola 1d10. Se algum sobrevivente tiver um chicote, eles o prendem em um osso em forma de pilar e o balançam em segurança; eles não rolam.
+1d10 cada sobrevivente
+
+1 - 2 Você é varrido violentamente, se afogando na lama. Sofra 2 danos de evento em um local de acerto aleatório e arquive todos os equipamentos frágeis e solúveis em sua grade de equipamentos. Role novamente na mesa.
+
+3 - 7 Você consegue se livrar, mas não antes de levar uma surra forte. Sofra 2 danos por evento ao seu corpo e arquive todos os equipamentos frágeis e solúveis em sua grade de equipamentos.
+
+8 - 9 Você alcança um terreno mais alto. Você está coberto de lama, mas de outra forma ileso.
+
+10+ Você se lembra de ter sido puxado para baixo, da sensação de lama forçando sua garganta abaixo, e nada mais. Depois que o deslizamento de terra passa, os outros sobreviventes o encontram ileso. Ganhe +1 de insanidade.
+
+/
+
+Os sobreviventes encontram um cadáver de monstro em decomposição. É muito podre para render quaisquer recursos.
+
+Se qualquer sobrevivente tiver mais de 3 de compreensão, os sobreviventes se cobrirão com o sangue derramado do monstro morto. O fedor vai ajudá-los a se esgueirar para a presa. Quando o confronto começa, os sobreviventes emboscam o monstro. Se algum sobrevivente tiver o transtorno do Squeamish, eles se recusam a se sujar. Não embosque o monstro.
+
+Se nenhum sobrevivente tiver mais de 3 de compreensão, os sobreviventes famintos se banqueteiam no cadáver em decomposição, perdendo imediatamente o controle de suas entranhas retorcidas. Cada sobrevivente perde 1 sobrevivência e não pode consumir pelo resto do ano lanterna.
+
+/
+
+O lamento rítmico da risada de um Gorm atinge os sobreviventes, enchendo-os de medo. O cacarejo segue os sobreviventes, atormentando-os até chegarem à presa. Coloque um token em cada espaço do tabuleiro de caça entre os sobreviventes e sua presa. Quando os sobreviventes se movem para um espaço com um token, remova-o e todos os sobreviventes não surdos sofrem 1 dano por evento cerebral.
+
+/
+
+Um vento forte sopra, trazendo consigo os aromas de lugares e coisas distantes. O revelador de eventos rola 1d10.
+Revelador de eventos 1d10
+
+1 - 5 O monstro capta o seu cheiro. Ele se move um espaço mais perto. Se este movimento iniciar o confronto, o monstro emboscará os sobreviventes.
+
+6+ Os sobreviventes sentem o odor fétido de sua presa e avançam. Os sobreviventes pulam o próximo espaço de caça. Se este movimento iniciar o confronto, os sobreviventes emboscarão o monstro.
+
+/
+
+Os sobreviventes encontram os restos de uma terrível batalha entre sua presa e algum inimigo desconhecido. O revelador do evento pode decidir investigar. Se o fizerem, ganhe +1 de coragem e role 1d10. Caso contrário, role novamente na mesa de eventos de busca antes de mover no quadro de busca.
+Revelador de eventos 1d10
+
+1 - 2 O monstro surge da escuridão, tirando vantagem dos sobreviventes distraídos. O monstro embosca os sobreviventes. Durante a configuração do confronto, coloque o revelador de eventos diretamente na frente do monstro.
+
+3 - 7 Os restos mortais são humanos. Os sobreviventes perturbados e enfurecidos sofrem, cada um, 1 damamge de evento cerebral. Se o assentamento tiver túmulos, eles enterram os mortos e cada sobrevivente ganha +1 de sobrevivência. Se o assentamento tiver Canibalizar, ganhe 1 recurso básico aleatório.
+
+8+ A pedreira deixou os restos mortais de outro monstro em seu rastro. Ganhe 1 recurso básico aleatório.
+
+/
+
+Uma enorme parede de chamas obstrui os sobreviventes, incinerando o solo. Ele destruiu tudo o que esperava pelos sobreviventes e deixou o caos em seu rastro. Arquive todas as cartas de evento de caça nos próximos 2 espaços de caça. Coloque 2 cartas básicas de evento de caça nesses espaços.
+
+/
+
+Uma tempestade atinge os sobreviventes. Relâmpagos roxos profundos brilham acima. Os raios congelam no meio do ataque e chovem sobre os sobreviventes como pontas brilhantes e denteadas. Cada sobrevivente rola 1d10. O sobrevivente com menor pontuação (ou sobreviventes, em caso de empate) torna-se um retardatário.
+
+Um raio cai ao lado do retardatário, pegando-o em uma explosão de cristais afiados. Eles sofrem 1d5 de dano de evento em 2 locais de acerto aleatórios. Arquive todos os equipamentos frágeis em sua grade de equipamentos.
+
+/
+
+Os sobreviventes são distraídos por uma fenda escura no mar infinito de faces de pedra.
+
+Se algum sobrevivente tiver uma picareta, eles atingem o solo, fazendo com que a rachadura se expanda em um buraco aberto. Alcançar corajosamente o sobrevivente produz um pedaço enegrecido e retorcido. Ganhe 1 recurso estranho de Ferro.
+
+Caso contrário, cada sobrevivente rola 1d10. O sobrevivente com menor pontuação (ou sobreviventes, em caso de empate) torna-se um retardatário.
+
+O retardatário se abaixa para olhar as profundezas e se recusa a parar de olhar. Quando os outros sobreviventes os arrastam para longe, eles balbuciam incoerentemente. Tudo o que eles viram os mudou para sempre; eles ganham 1 desordem aleatória.
+
+Se todos os sobreviventes terminarem como retardatários, ninguém os afastará e todos estarão perdidos. Morto.
+
+/
+
+As faces de pedra à frente são substituídas por uma extensão de pés de pedra brotando do solo. Os sobreviventes andam planta a planta com os pés.
+
+Se algum sobrevivente está louco, eles estão convencidos de que alcançaram o outro lado do mundo. Eles se agarram ao chão para salvar sua vida, com medo de cair. Seu terror estridente retarda os sobreviventes e atrai atenção indesejada. Role uma vez na mesa de eventos de caça para cada sobrevivente insano antes de mover-se no tabuleiro de caça. Se qualquer uma dessas jogadas resultar em pés, ignore-a e role novamente.
+
+Se todos os sobreviventes são insanos, eles caem do lado de baixo do mundo. Os sobreviventes estão mortos, a menos que o assentamento escolha Survival of the Fittest. Se o fizessem, os sobreviventes mordiam os pés com força. Seus dentes rangem contra a pedra enquanto se recusam a soltar. Imediatamente, os pés se estilhaçam, revelando rostos de pedra comuns embaixo. Defina a insanidade de todos os sobreviventes como 0. Cada sobrevivente sofre o ferimento grave na cabeça do maxilar quebrado. Não role quaisquer eventos de caça adicionais causados por pés.
+
+/
+
+Duas mãos de pedra em forma de concha erguem-se do solo. As mãos seguram água limpa e fria que escorre pelos dedos de pedra em um suprimento aparentemente infinito. Qualquer sobrevivente pode consumir da fonte. Se o fizerem, ganhe +1 de coragem e role 1d10.
+
+Se ninguém consumir, role novamente na mesa de eventos de busca antes de mover-se para o tabuleiro de busca.
+1d10 Qualquer sobrevivente - consumir
+
+1 - 4 A água é límpida até entrar em seus lábios, onde de repente se transforma em sangue. Você cuspiu o líquido fétido e sofreu danos por evento cerebral de nível de monstro. Se você tem o distúrbio de hemofobia, você também sofre dano por evento de nível de monstro no corpo ao vomitar violentamente de nojo.
+
+5 - 8 É água. Refrescante.
+
+9+ A água é limpa e pura, como nenhuma que o sobrevivente já provou. Ganhe +1 de sobrevivência.
+
+/
+
+No topo de uma colina, os sobreviventes encontram a estátua de um homem sentado em um trono. Se qualquer sobrevivente tiver 5+ compreensão, os sobreviventes podem ignorar a estátua e encerrar este evento.
+
+Caso contrário, cada sobrevivente rola 1d10. O sobrevivente com a pontuação mais baixa (rolagem em caso de empate) torna-se um retardatário.
+
+O retardatário é atraído para a estátua, tocando-a suavemente. Em um instante, eles se foram, substituídos pelo homem do trono, a boca de pedra aberta em um grito silencioso. Eles se foram para sempre. Considere-os mortos, mas não aplique o princípio Canibalize a morte; não há ninguém.
+
+O homem agradece e se junta ao grupo de caça sem qualquer explicação. Ele é um novo sobrevivente com o equipamento do retardatário, 2 desordens aleatórias e 2 EXP de Caça. Embaralhe todas as cartas de especialização de arma (incluindo expansões, se houver) e compre uma. O sobrevivente possui 3 níveis de proficiência naquele tipo de arma. Eles ganham + 1d10 de sobrevivência, + 1d10 de insanidade. Dê a ele um nome e +1 de sobrevivência por ser nomeado.
+
+Se o assentamento tiver Momento Mori, a estátua se assemelha a um sobrevivente falecido. Substitua o retardatário pela folha de registro de um sobrevivente caído. Remova todos os ferimentos graves. Defina sua EXP Hunt para 2 (eles envelhecem novamente, pois esta é uma nova vida). Eles ganham + 1d10 de sobrevivência, + 1d10 de insanidade. Você pode dar a eles 3 níveis de proficiência em um tipo de arma aleatório.
+
+/
+
+Há uma grande corrente de ar. Uma voz estrondosa e inumana declara uma única palavra em um idioma desconhecido. Por um instante, os sobreviventes entendem.
+
+Todos os sobreviventes não surdos ganham +1 de compreensão e sofrem 1 dano por evento cerebral. Se forem insanos, também ganham 1 desordem aleatória.
+
+/
+
+O terreno à frente está marcado por poças cheias de um líquido pegajoso. Eles borbulham alegremente e fedem a carne digerida. Conforme os sobreviventes se movem entre eles, são vencidos por ondas de náusea.
+
+Se algum sobrevivente tiver uma foice, ele corta algumas folhas de uma planta próxima e todos as usam para tampar o nariz e mascarar o cheiro. Todos os sobreviventes ganham +1 de compreensão.
+
+Caso contrário, cada sobrevivente rola 1d10. Se o resultado for menor do que sua sobrevivência, eles continuam. Caso contrário, eles vomitam em uma piscina próxima, causando 1 evento de dano ao corpo. Diante de seus olhos, a poça avidamente dissolve seu vômito, eles ganham +1 de compreensão.
+
+Se algum sobrevivente tiver mais de 3 de compreensão, eles planejam uma maneira de usar as piscinas. Cada sobrevivente pode colocar uma peça de equipamento na piscina. Arquive o equipamento e obtenha os recursos usados para fabricá-lo (se houver).
+
+/
+
+Se nenhum sobrevivente morreu ainda nesta campanha, ignore este evento e role novamente na tabela de eventos de caça antes de mover no tabuleiro de caça.
+
+Cada sobrevivente rola 1d10. O sobrevivente com menor pontuação (ou sobreviventes, em caso de empate) torna-se um retardatário.
+
+Enquanto examina os rostos de pedra sob os pés, o retardatário reconhece o rosto de um amigo caído. Memórias agridoces os reduzem às lágrimas. Reduza sua insanidade para 0 e eles ganham +1 compreensão
+
+/
+
+O brilho das lanternas dos sobreviventes fica borrado, formando trilhas de luz atrás deles.
+
+Se o assentamento lutou contra uma Fênix, o grupo reconhece o fenômeno. Todos os sobreviventes ganham +1 de compreensão.
+
+O revelador de eventos rola 1d10 na tabela abaixo. Se qualquer sobrevivente tiver um anel de horas, ele pode selecionar um resultado de dado.
+Revelador de eventos 1d10
+
+1 - 3 Os corpos dos sobreviventes envelhecem repentinamente. Todos os sobreviventes com menos de 10 EXP Hunt ganham +3 XP Hunt. Não ganhe os benefícios do Age. Seus corpos envelheceram fisicamente, nenhuma experiência prática foi aprendida.
+
+4 - 9 As mentes dos sobreviventes se enchem de memórias alienígenas. Eles não são mais apenas eles mesmos. Eles andam de maneira diferente e falam com sotaques estranhos. Dê a cada sobrevivente um novo nome e +1 de sobrevivência por ser nomeado. Cada sobrevivente ganha +1 de XP de Caçada e 1 desordem aleatória.
+
+
+Se o seu assentamento tiver Sobrevivência do mais apto, e você já usou sua nova rolagem uma vez por vida, você pode usá-lo novamente.
+10+ Os sobreviventes estão de repente perto de sua presa! Comece o confronto imediatamente.
+
+/
+
+Os sobreviventes encontram uma tumba serena e luxuosa, imaculada em sua construção e estado. Murais elegantes decoram as paredes, retratando vitórias gloriosas sobre o monstro que os sobreviventes estão caçando. Os sobreviventes ficam perplexos com sua presença. O revelador de eventos investiga e rola 1d10.
+Revelador de eventos 1d10 - investigue
+
+1 Os sobreviventes lamentam o quão fracos eles são em comparação com os guerreiros nos murais. Todos os sobreviventes perdem 1 sobrevivência.
+
+2 - 5 É bom ver algo bonito pelo menos uma vez, hein?
+
+6 - 9 Os sobreviventes não conseguem se lembrar de nunca se sentirem tão alegres e inspirados. Cada sobrevivente ganha +1 de coragem.
+
+10+ A entrada da tumba é emoldurada com uma madeira que tem pequenas hastes para grãos. Dentro, murais retratam um herói no centro de um labirinto que está segurando uma fruta gigante cheia de humanos acima de sua cabeça. Cada sobrevivente ganha +1 de compreensão. Se o assentamento tiver pictogramas, os sobreviventes encontram informações sobre sua presa. No início do confronto, eles podem colocar a armadilha do monstro na parte inferior do deck de localização de acerto.
+
+/
+
+Entre as infinitas faces de pedra, o revelador de eventos percebe um objeto incomum no chão. O revelador de eventos investiga e rola 1d10.
+
+Se a liquidação tiver Registros, adicione +6 ao resultado.
+Revelador de eventos 1d10 - investigue
+
+1 - 2 Você encontra uma pedra roxa envelhecida com uma textura espiralada. É chocantemente pesado. Hipnotizado pela pedra, você a esconde dos outros sobreviventes. Ganhe a desordem secreta e -1 ficha de movimento arrastando a pedra.
+
+3 - 4 Lixo inútil espalhando-se pelo chão.
+
+5 - 9 Você encontra um coração de pedra que pulsa com calor quando você o segura nas mãos. Ganhe +1 de insanidade.
+
+10+ Você encontra uma máscara com lábios vivos. Se você retornar ao assentamento com a máscara, ele aprenderá rapidamente seu idioma e compartilhará seus segredos antes de se desintegrar. No início da próxima fase de liquidação, extraia 3 inovações do baralho de inovação e adicione uma à sua liquidação sem nenhum custo.
+
+
+Se algum sobrevivente tiver uma Lanterna Final, ela começará a piscar e vibrar descontroladamente. A máscara se desintegra e todos os sobreviventes sofrem 1 dano por evento cerebral.
+
+/
+
+Se a localidade não tiver Simpósio, ignore este evento e role novamente na mesa de eventos de busca antes de mover para o quadro de busca. Caso contrário, o revelador de eventos sugere um jogo de palavras para aliviar o clima enquanto os sobreviventes avançam. O revelador de eventos rola 1d10. Se o povoado tiver Canção dos Valentes, adicione +4 à sua jogada.
+Revelador de eventos 1d10
+
+1 - 2 As vozes turbulentas dos sobreviventes atraem sua presa. O monstro os embosca.
+
+3 - 7 Ninguém mais está com vontade de jogar. O revelador de eventos perde 1 coragem.
+
+8 - 9 Os sobreviventes jogam um jogo simples, mas divertido. Cada sobrevivente ganha +1 de coragem.
+
+10+ O jogo é incrivelmente divertido e os espíritos dos sobreviventes explodem em gargalhadas. Cada sobrevivente rola 1d10. Com 6+, eles ganham 1 sobrevivência ou curam 1 distúrbio.
+
+/
+
+O caminho a seguir está bloqueado por uma fumaça densa salpicada de ouro. Se os sobreviventes tiverem uma Lanterna Final, ela os guiará pela fumaça sem nenhum problema; terminar este evento.
+
+Os sobreviventes podem seguir em frente e enfrentar a fumaça. Se o fizerem, cada sobrevivente ganha +1 de coragem e o revelador de eventos rola 1d10. Se eles não enfrentam a fumaça, dão uma volta mais longa; role novamente na mesa de eventos de busca antes de mover-se no quadro de busca.
+Revelador de eventos 1d10
+
+1 - 5 A fumaça oprime os sobreviventes. Enquanto eles correm pela névoa cintilante, cada sobrevivente sofre 1 dano de evento na cabeça e no peito. Quando eles finalmente rompem o fim da névoa, eles caminham silenciosamente. Ninguém se sente confortável compartilhando as coisas terríveis que vislumbrou. Cada sobrevivente ganha 1 desordem aleatória.
+
+6+ Os sobreviventes seguram as mãos uns dos outros, formam uma linha e atravessam a fumaça. Eles respiram por entre trapos e se revezam para se orientar. Em algum lugar, nas profundezas da fumaça, eles tropeçam em uma cratera. Eles podem ignorá-lo e escapar da fumaça (encerrando este evento) ou explorar a cratera.
+
+
+Os sobreviventes descem cuidadosamente para a cratera, encontrando as ruínas de um povoado cercado por um anel de crânios. O assentamento está totalmente demolido e quase tudo foi reduzido a pó por uma força tremenda. Os crânios estão voltados para longe das ruínas e em cada boca aberta, uma brasa dourada cuspiu fumaça.
+
+A visão é assustadora; cada sobrevivente sofre 1d10 dano por evento cerebral e ganha 1 desordem aleatória. Os sobreviventes vasculham cuidadosamente as ruínas. Nomeie um sobrevivente para investigar e rolar 1d10.
+1d10 Sobrevivente nomeado - Investigar
+
+1 Contra toda razão, você se sente compelido a enfiar a mão em um crânio e pegar uma brasa. Sua carne chia, cegando-o de dor, mas você não consegue parar de alcançar a própria boca. Se você tiver uma mandíbula quebrada, você está frustrado. Você deixa cair a brasa dourada de sua mão em chamas. Sofra ferimentos graves no braço desmembrado. Abalados, os sobreviventes fogem da fumaça. Caso contrário, sua mandíbula se fecha em torno da brasa, a carne de sua boca se fecha, abafando seus gritos de dor. A fumaça sai de seus olhos, nariz e ouvidos. Se o assentamento tiver Sobrevivência do mais apto, o desejo de viver vence e você violentamente quebra sua própria mandíbula, sofre com a mandíbula quebrada e um grave ferimento na cabeça. A brasa cai no chão, seu assobio crepitante ecoando em seus ouvidos enquanto todos os sobreviventes fogem horrorizados. Caso contrário, seu corpo fumegante e derretido marcha roboticamente para dentro do anel de crânios, colocando-se no lugar do crânio perturbado. O cheiro pútrido de seu cérebro em chamas se espalha pela fumaça no ar. A visão é tão perturbadora que todos os outros sobreviventes fogem, para nunca mais falar do que aconteceu.
+
+2 - 4 Você sente o perigo extremo das brasas douradas e demora apenas o suficiente para pegar uma pequena bugiganga. Ganhe 1 recurso básico de Lanterna Quebrada.
+
+5 - 8 Você percebe que o assentamento está coberto de lanternas, todas apagadas e destruídas quase irreconhecível. Os sobreviventes decidem que isso nunca acontecerá com eles. Se algum sobrevivente retornar ao assentamento este ano, ganhe +2 esforços.
+
+9+ Entre as ruínas, você encontra apenas um objeto intacto. Uma Espada do Crepúsculo. Ele repousa, respeitosamente colocado sobre o esqueleto de um sobrevivente praticamente não danificado. Se o assentamento não tiver uma Espada do Crepúsculo, e nenhum sobrevivente do grupo tiver a desordem de honra, você pode nomear um sobrevivente para ganhar o equipamento raro Espada do Crepúsculo. Se você fizer isso e o evento da história do Cavaleiro Encapuzado não estiver na linha do tempo, adicione-o à linha do tempo daqui a 2 anos.
+
+/
+
+Uma grande batalha pelo domínio entre dois enormes antílopes deixou o solo de pedra sulcado com cicatrizes entrecruzadas. Cada sobrevivente rola 1d10.
+1d10 cada sobrevivente
+
+1 - 2 Você tropeça no solo irregular e rasga sua carne! Sofra de lesão grave na perna do músculo rompido.
+
+3 - 8 Você pisa cuidadosamente nas faces destruídas.
+
+9+ Você encontra uma pedra solta. Ganhe uma engrenagem inicial da Pedra Fundadora.
+
+/
+
+Tropeçando na escuridão, o revelador de eventos cai no chão, esmagando sua lanterna embaixo deles. A luz viva dentro da lanterna fica agitada pela falta de jeito do sobrevivente e queima um equipamento. O revelador de eventos arquiva 1 equipamento de sua escolha em sua grade de equipamentos.
+
+/
+
+Os sobreviventes têm visões vívidas e febris do que está por vir. De repente, eles acordam assustados e comparam freneticamente os horrores que viram.
+
+Cada sobrevivente rola 1d10. Se algum sobrevivente for um salvador, seu sonho poderoso envolve o grupo; cada sobrevivente pode selecionar qualquer resultado de rolagem de dados que desejar. Se as rolagens de qualquer sobrevivente forem iguais, esses sobreviventes descobrem que tiveram exatamente o mesmo sonho. Eles ganham +1 de insanidade. Se qualquer rolagem duplicada for 10s, o revelador de eventos pode relançar qualquer resultado nesta fase de caça (uma rolagem de dado anterior, não apenas sua rolagem).
+
+/
+
+Um sumidouro escancarado se abre de repente sob os sobreviventes, revelando uma poça negra rodopiante de ichor abaixo deles. Cada sobrevivente rola 1d10. O sobrevivente com menor pontuação (ou sobreviventes, em caso de empate) torna-se um retardatário.
+
+Cada retardatário rola 1d10. Se qualquer outro sobrevivente tiver um chicote, eles atiram uma linha para o retardatário. Cada retardatário adiciona +4 ao seu teste.
+1d10 Straggler
+
+1 Você é engolido pelo sumidouro. Momentos depois, ele regurgita você completamente nu. Seu equipamento está irremediavelmente perdido no miasma. Arquive todos os equipamentos em sua grade de equipamentos.
+
+2 - 4 Os outros sobreviventes o puxam para cima, mas não antes que algo seja sugado para baixo da superfície. Arquive 1 engrenagem de sua escolha de sua grade de engrenagem.
+
+5 - 9 Você é arrastado para um local seguro, aterrorizado, mas ileso.
+
+10+ Depois de um esforço monumental, os outros sobreviventes o libertam. Alguém está agarrado com força a seus pés (+1 população)! Conforme eles se retiram para seu assentamento, cada sobrevivente sofre 1 dano cerebral.
+
+/
+
+Os sobreviventes encontram um cadáver vestido com roupas de cores vivas, segurando algo contra o peito. O revelador do evento pode investigar. Se o fizerem, eles ganham +1 de coragem e rolam 1d10. Se algum sobrevivente tiver um chicote, eles açoitam o cadáver de longe; adicione +4 ao seu teste.
+
+Caso contrário, role novamente na mesa de eventos de busca antes de mover no quadro de busca.
+Revelador de eventos 1d10 - investigue
+
+1 Ele estava segurando um explosivo! Movê-lo faz com que ele detone, explodindo em sua mão. Sofra uma lesão grave no braço desmembrado.
+
+2 - 4 Ele estava segurando um explosivo! Ele explode, mas você se afasta antes que o desastre aconteça. Ganhe -1 token de precisão.
+
+5 - 9 Suas mãos estão vazias. Se o assentamento tiver Canibalizar, ganhe 1 recurso básico aleatório. Se o povoado tiver túmulos, ganhe +1 de entendimento.
+
+10+ Suas mãos contêm uma garrafa de joias cheia de um líquido chartreuse. Ganhe 1 equipamento de Bebida Frenesi.
+
+/
+
+Se o seu assentamento já tiver uma Chave Portcullis, o garimpeiro se foi. Role novamente na mesa de eventos de busca antes de mover-se no quadro de busca.
+
+Os sobreviventes descobrem um corpo caído contra um grande rosto de pedra. Aproximando-se, eles encontram um pequeno garimpeiro agonizante crivado de flechas. Quando eles se aproximam, ele rosna um aviso, ameaçando-os com um enorme fragmento de pedra. Quando ele vê que eles não são monstros do mal, ele se acalma e lhes dá uma chave. Com o último suspiro, ele diz: Esta é a chave da ponte levadiça. Sem ele, você nunca conseguirá passar.
+
+Registre a Chave Portcullis nas notas da folha de registro de liquidação.
+
+Se o assentamento tiver túmulos, o revelador de eventos constrói um pequeno monumento de narizes de pedra quebrados e ganha +1 de compreensão.
+
+/
+
+Os sobreviventes passam por um anel de pedras com uma rocha despretensiosa no centro. Cada sobrevivente rola 1d10. O sobrevivente com a pontuação mais baixa (randomizar em caso de empate) torna-se um retardatário.
+
+O retardatário levanta a pedra (é pesada!) E promete carregá-la para todos os lugares, para sempre apaixonado. Eles devem sempre deixar um espaço vazio em sua grade de engrenagens, pois ela contém sua amada rocha. Registre isso em sua folha de sobrevivente. A rocha pode ser perdida ou arquivada como outro equipamento; se for perdida, o sobrevivente lamenta sua amada e recupera o espaço em sua grade de equipamentos.
+
+/
+
+Os sobreviventes caminham com cuidado ao longo das costas de um enorme monstro adormecido. Em vez de pelo, ele tem braços alongados, vários deles se contorcendo para qualquer sonho que a grande besta esteja no meio. Os sobreviventes não perturbam o sono profundo do monstro e cruzam sem problemas.
+
+Se qualquer sobrevivente tiver uma foice, ele cuidadosamente remove um pouco de pele dura de um dos braços e ganha 1 recurso básico de Esconderijo.
+
+/
+
+A grama verde vibrante cresce em manchas à frente dos sobreviventes. Uma inspeção mais detalhada das folhas delicadas revela que são tão afiadas quanto qualquer lâmina. Cada sobrevivente rola 1d10. O sobrevivente com menor pontuação (ou sobreviventes, em caso de empate) torna-se um retardatário. Enquanto os sobreviventes escolhem cuidadosamente o caminho para passar pelos perigos verdejantes, o retardatário tropeça no mato. Eles rolam 1d10.
+
+Se algum sobrevivente tiver um chicote, uma corda apressada é feita. Adicione +4 ao seu teste.
+1d10 Straggler
+
+1 Você pousa no gramado. Ao se levantar, você percebe que é tarde demais. As partes de seu corpo que tocaram a grama brotaram com folhas afiadas de grama. Qualquer tentativa de removê-los só os espalha ainda mais pelo corpo. Durante o confronto, você nunca é uma ameaça (ignore qualquer efeito que faria de você uma ameaça, mesmo o White Lion's Sniff). No final do confronto, seu corpo floresce em um redemoinho de grama verde imaculada. Morto.
+
+2 - 9 Você cai, mas consegue interpor algo entre a grama e sua pele nua. Arquive 1 engrenagem de sua escolha de sua grade de engrenagem para se proteger, ou trate este resultado como se você tivesse obtido um 1.
+
+10+ Você para sua queda antes que seja tarde demais.
+
+/
+
+Os sobreviventes se aproximam de um monólito de 5 lados feito de carne que se estende na escuridão acima. Membros e rostos humanos e bizarros se projetam de todos os lados. O revelador de eventos ganha +1 de coragem e investiga.
+Revelador de eventos 1d10 - investigue
+
+1 Os membros do monólito ganham vida, agarrando-se antes que você possa reagir. Eles unem as partes do seu corpo às suas com uma eficiência enlouquecedora enquanto você é dilacerado por uma chuva de sangue coagulado. Morto. A visão horrível faz com que todos os outros sobreviventes sofram 3 danos cerebrais e eles ganhem o transtorno de estresse pós-traumático. Se o assentamento tiver Sobrevivência do mais apto, você luta contra o monólito! O edifício horrível arranca seu braço, mas você morde um de seus apêndices em troca, cortando-o! O monólito recua para o chão enquanto você ruge em triunfo. Sofra ferimentos graves no braço desmembrado e ganhe +1 de força permanente. Todos os outros sobreviventes ficam pasmos e ganham +3 de insanidade e +1 de coragem.
+
+2 - 4 mãos e tentáculos agarram você. Gaste 1 de sobrevivência para se esquivar ou trate esse resultado como se você tivesse obtido 1.
+
+5 - 9 Todos os sobreviventes são rechaçados com horror, todos eles sofrem danos no cérebro de nível de monstro da pedreira.
+
+10+ À medida que os sobreviventes se aproximam, eles descobrem que este monólito de carne é na verdade uma enorme pilha de cadáveres de sobreviventes, muitos com membros quebrados. A pilha está coberta por pedaços de vísceras estranhas e cheirosas.
+
+
+Se o assentamento tem Túmulos, você sobe a pilha e encontra 3 sobreviventes mal vivos, seus corpos desprovidos de alimento e seus olhos muito sensíveis à luz da lanterna. Se você retornar ao assentamento, +3 população. Esses novos sobreviventes não podem partir por 2 anos lanternas, pois eles precisam de mim para se recuperar (anote isso na linha do tempo).
+Caso contrário, tudo que você consegue colher da pilha de cadáveres emaciados são 2 recursos básicos de órgãos. Sua pele é muito macia e seus ossos muito frágeis para serem úteis.
+
+/
+
+Um enorme livro com encadernação ornamentada se abre diante dos sobreviventes. Se o assentamento tiver pictogramas, qualquer sobrevivente com 3+ de coragem pode escrever seu nome no livro. Sobreviventes insanos com 3+ coragem devem escrever.
+
+Cada sobrevivente que escreve seu nome no livro rola 1d10 e adiciona sua compreensão. Se ninguém escrever, role novamente na mesa de eventos de busca antes de mover no quadro de busca.
+1d10 Qualquer sobrevivente com 3+ coragem
+
+1 - 4 Ao terminar de escrever seu nome, você saberá que fez algo terrivelmente errado. Você desaparece da história. Morto. Arquive seu equipamento.
+
+5 - 8 Nada acontece.
+
+9 - 10 À medida que escreve seu nome, você se sente restaurado. Cure todos os níveis de lesão e pontos de armadura perdidos. Ganhe +2 de sobrevivência.
+
+11 - 14 Você tem certeza de que, enquanto seu nome estiver escrito no livro, nada de ruim poderá acontecer com você. Ganhe dois dos seguintes: +2 coragem, +2 compreensão ou +2 sobrevivência.
+15+ O livro prova a marca inegável que você deixa no mundo. Ganhe +1 de sobrevivência, +1 de compreensão, +1 de coragem, +1 de velocidade permanente e +1 de força permanente.
+
+/
+
+A lava flui dos olhos de um enorme rosto de pedra com uma careta. Seus dentes cerrados seguram uma espada gasta. Se houver sobreviventes com 6+ de coragem, escolha um para enfrentar a lava. Eles ganham a armadura rara Adventure Sword. Se ninguém puder testar sua coragem, o grupo segue em frente com sentimentos de inadequação.
+
+Se o assentamento já possui a Espada de Aventura e a Contação de Histórias, os sobreviventes compartilham histórias de bravura; cada sobrevivente ganha +1 de sobrevivência. Se o assentamento também tem Saga, as histórias são excepcionalmente comoventes; cada sobrevivente também ganha +1 de coragem.
+
+/
+
+Os sobreviventes o cheiram muito antes de vê-lo, uma série de bocas de caverna que emitem odores nocivos.
+
+Cada sobrevivente rola 1d10. Em um 9+, eles entram em um dos túneis e cercam um grupo miserável de sobreviventes doentes que vivem na sujeira. Todos os sobreviventes que entram na caverna contraem sua doença podre. Eles têm lepra; reduza todos os danos sofridos em 1 a um mínimo de 1. Sofra -2 a testes de ferimentos graves. Registre esta deficiência.
+
+/
+
+A água flui dos olhos das faces de pedra ao redor, reunindo-se em uma pequena piscina. Qualquer sobrevivente pode consumir da reserva e rolar 1d10. Se eles tiverem 3+ compreensão, adicione +2 ao teste.
+
+Sobreviventes insanos estão inconsoláveis, eles deitam no chão chorando pesadamente. Se algum sobrevivente estiver louco, role novamente na mesa de eventos de caça antes de mover-se para o tabuleiro de caça.
+1d10 Qualquer sobrevivente - consumir
+
+1 - 3 A água é salgada e azeda. Você não pode deixar de pensar no que pode estar bebendo. Sofra 1 dano por evento cerebral.
+
+4 - 6 Refrescante!
+
+7 - 8 A água é mais limpa. Você pode curar até 2 níveis de lesão em qualquer local de acerto.
+
+9+ A água é revigorante. Ganhe +1 ficha de velocidade.
+
+/
+
+Uma estátua de um olho, duas vezes mais alta do que qualquer homem, está sentada diante de uma grande bigorna com um martelo em cada uma de suas seis mãos. Paralisados, os sobreviventes assistem a estátua golpear uma espada em brasa que se encontra na bigorna.
+
+Cada sobrevivente, começando com o revelador de eventos e prosseguindo no sentido horário, pode fazer uma tentativa de agarrar a espada da bigorna. Se o fizerem, eles ganham +1 de coragem, jogam 1d10 e adicionam sua EXP de Caça ao teste.
+1d10 Qualquer sobrevivente
+
+1 - 2 Conforme você arruma a bigorna, a estátua agarra a espada e a enfia em seu corpo. Ouve-se um chiado agudo quando o metal quente esfria em seu sangue. Morto.
+
+3 - 8 Você agarra a espada rapidamente, mas não o suficiente. Sofra uma lesão grave no braço desmembrado.
+
+9 - 13 Você pode não ser rápido o suficiente para agarrar a espada, mas pelo menos não é tolo o suficiente para morrer tentando.
+
+14+ Sua velocidade é lendária. Ganhe o equipamento raro Muramasa. Encerre este evento.
+
+/
+
+Pássaros pequenos e esfarrapados com bicos finos como agulhas voam acima. Cada sobrevivente rola 1d10. O sobrevivente com a pontuação mais baixa (rolagem em caso de empate) torna-se um retardatário.
+
+Os pássaros enxameiam o vagabundo. Uma vez entra na boca do retardatário e desce pela garganta. O sobrevivente vomita o pássaro bem alimentado, suas entranhas embaralhadas e com cicatrizes. Ganhe +1 de sorte permanente, -1 de velocidade permanente.
+
+Se algum sobrevivente tiver um chicote, eles o estalam e derrubam a criatura ofensiva. Ganhe 1 recurso básico aleatório.
+
+/
+
+Os sobreviventes ouvem um uivo estridente, seguido de um estrondo. Eles veem uma explosão de luz multicolorida no horizonte. A luz não natural ilumina o caminho do sobrevivente. Se pelo menos um sobrevivente estiver são, eles seguem a luz. Você pode rolar novamente o próximo resultado na tabela de eventos de busca.
+
+Se todos os sobreviventes são insanos, eles se afastam da luz, voltando para a escuridão. Mova os sobreviventes 2 espaços de volta no tabuleiro de caça.
+
+Independentemente do que os sobreviventes façam, a luz chega ao assentamento, Adicionar o evento Lights in the Sky à linha do tempo no próximo ano.
+
+/
+
+Os sobreviventes encontram a cena da primeira caçada de seu assentamento. Quer eles próprios tenham visto ou ouvido falar em histórias, eles imediatamente o reconhecem. Ver o local do primeiro triunfo de seu assentamento é eletrizante.
+
+Cada sobrevivente ganha +1 de sobrevivência. Se o assentamento tiver Saga, cada sobrevivente ganha +1 de coragem. Se o assentamento tiver Narrativa, cada sobrevivente ganha +1 de compreensão.
+
+/
+
+Os sobreviventes encontram os restos mortais de quatro humanos. Vestidos com tanga e agarrando cacos de pedra, eles carregam as marcas distintas das garras do Leão Branco.
+
+Cada sobrevivente sofre 1 dano de evento cerebral e ganha 1 equipamento inicial de Pedra Fundadora. Sobreviventes com 3+ de compreensão também ganham + 1d10 de insanidade.
+
+/
+
+Em uma depressão entre duas rochas, você encontra um cadáver com cabelo fabuloso segurando um livro contra o peito.
+
+Se o assentamento tiver pictogramas, o revelador de eventos pode ler o livro e lançar 1d10. Caso contrário, os sobreviventes seguem em frente, profundamente confusos. O livro conta a trágica história de dois sobreviventes que encontraram um amor que nunca poderiam ter.
+Revelador de eventos 1d10
+
+1 - 3 Página 3 - Dual Nature. O assentamento do amante foi destruído e eles foram roubados. O revelador do evento se sente em conflito. Após o confronto, eles deixam o assentamento para sempre em busca de algo.
+
+4 - 6 Page 6 - O homem passou anos suportando horríveis torturas por causa de sua amada. Cada ferimento apenas fortaleceu a determinação do homem. Ganhe +1 de velocidade permanente e os transtornos de ansiedade e trauma.
+
+7 + Página 9 - O homem escapou, mas nunca mais voltou. Ele sabia que se o fizesse, isso condenaria sua amada. Ele decidiu que era melhor para ele desaparecer na memória para proteger os poucos sorrisos que sua existência tinha inspirado. Ganhe +1 de coragem e as artes de luta Resistente e Último Homem Permanente.
+
+/
+
+Os sobreviventes encontram um pedaço de solo bastante danificado. As faces de pedra estão rachadas e os destroços estão espalhados por toda parte. Pilhas de esterco com cheiro tóxico e vísceras semidigeridas cobrem a área. Os sobreviventes se aproximam, mas sobreviventes com o transtorno de Squeamish se recusam a se aproximar.
+
+Sobreviventes insanos consomem o que encontram e ficam doentes; eles ganham -1 ficha de força. Sobreviventes sãos param para investigar a bagunça. Cada um ganha +1 de coragem, rola 1d10 e adiciona sua compreensão.
+1d10 Cada sobrevivente são - investigue
+
+1 - 2 Você fica tonto ao vasculhar as pilhas de esterco e começa a engasgar incontrolável. Ganhe -1 ficha de força.
+
+3 - 8 Pesando, olhos cheios de lágrimas, sua caça repugnante compensa. Ganhe 1 recurso básico aleatório e sofra 1 dano de evento em um local de acerto aleatório.
+
+9+ Sua intuição compensa! Ganhe 1 recurso básico aleatório.
+
+/
+
+Há um silêncio mortal no ar. A atmosfera fica pesada de preocupação e os sobreviventes continuam nervosos. Um frio terrível se instala e não há abrigo.
+
+Os sobreviventes se amontoam para se aquecer, estremecendo ruidosamente. A menos que um sobrevivente tenha equipamento de armadura em cada local de acerto, eles perdem a sobrevivência de nível de monstro de pedreira.
+
+/
+
+Uma forma encapuzada sai de um pedaço de escuridão à frente dos sobreviventes. Sua vestimenta mal ajustada muda para cima de sua forma e suas folhas marcantes são escuras, poças negras na boca da pedra escorregadia da chuva no chão.
+
+O revelador de eventos se aproxima do estranho e rola 1d10.
+Revelador de eventos 1d10
+
+1 - 2 A abordagem do estranho enche seus ouvidos de estática dolorosa. Há um flash de luz e um estalo alto. Você cai no chão, segurando o peito ensanguentado de dor. Sofra de lesão corporal grave do baço rompido. Todos os sobreviventes não surdos sofrem 2 danos cerebrais.
+
+3 - 4 O estranho entra e sai de foco conforme você se aproxima. Quando você os alcança, eles desaparecem, sua forma é impossível de lembrar. Ganhe 1 ficha sangrando e esqueça 1 arte de luta de sua escolha.
+
+5 - 6 Conforme você se aproxima do estranho, percebe que ele está flutuando no ar! Você mal consegue distinguir um som áspero vindo da forma que parece se assemelhar a ... risada? Depois que o estranho sai, você retorna ao grupo, com o rosto branco como os ossos, recusando-se a falar sobre o que viu. Sofra 3 danos cerebrais.
+
+7 - 8 O estranho levanta os braços e se move para encontrar sua abordagem. Por baixo das dobras de sua capa, você pode apenas ver um toque de pele escamosa violeta. Uma garra se estende de uma manga e acaricia suavemente sua bochecha, deixando uma camada de líquido viscoso para trás. Limpando a lama, você acha a experiência bizarra estranhamente tocante. Você ganha +1 sobrevivência, +1 compreensão.
+
+9+ O estranho ordena que você organize um teste de força entre os sobreviventes. Cada sobrevivente deve rolar 1d10 (rolar em caso de empate). O sobrevivente com maior pontuação vence o combate corpo a corpo. O estranho marca seu rosto com sua garra brilhante, concedendo a eles a habilidade Vontade de Ferro: Você não pode ser derrubado. Reduza todos os golpes que você sofre ao empurrar 1. Registre esta habilidade. Todos os sobreviventes perdem 4 sobreviventes da luta exaustiva.
+
+/
+
+O solo muda repentinamente e sobe abruptamente no ar! Os sobreviventes se pegam segurando as costas de uma criatura gigante que dormia sob seus pés.
+
+Os sobreviventes seguram sua preciosa vida, absolutamente apavorados. Nomeie um sobrevivente para subir em direção ao topo do gigante e ver o que está por vir. Eles rolam 1d10.
+1d10 Sobrevivente nomeado
+
+1 Seu movimento irrita o gigante, fazendo com que os sobreviventes voem! Todos os sobreviventes sofrem 1d5 de dano de evento em um local de acerto aleatório. Arquive todos os equipamentos frágeis.
+
+2 - 7 Você chega ao topo e tem um ponto de vista perfeito para ver o mundo, se ao menos houvesse luz suficiente para vê-lo. Defina sua insanidade como 0. O gigante carrega você exatamente para onde você está indo! Comece o confronto imediatamente.
+
+8+ Você descobre uma criatura bizarra com uma face invertida esculpida diligentemente nas costas do gigante. Ele descarta faces de pedra danificadas enquanto funciona. Cada sobrevivente pega um fragmento, ganhando 1 equipamento inicial de Pedra da Fundação. Eventualmente, o gigante se acomoda no chão novamente. Você desmonta e descobre sua presa! Embosque o monstro!
+
+/
+
+Os sobreviventes encontram um rastro de sangue. Ela se acumula nas órbitas oculares do solo de pedra. O sangue ainda está quente.
+
+O revelador de eventos pode investigar e rolar 1d10 ou ignorar o trem e encerrar este evento.
+Revelador de eventos 1d10 - investigue
+
+1 - 3 Um dos seus está afundado no final da trilha, sangrando muito. Escolha um sobrevivente aleatório, eles ganham 3 fichas de sangramento. Todos os sobreviventes sofrem 3 danos cerebrais.
+
+4 - 6 A trilha leva a uma caixa enorme. Preso dentro está um jovem sobrevivente ruivo. Ganhe +1 população. As esculturas que adornam a caixa são assustadoras. Todos os sobreviventes sofrem 3 danos cerebrais.
+
+7+ A trilha leva à sua presa! O monstro está ferido em uma batalha anterior. Comece o confronto imediatamente. No início do confronto, o monstro sofre 1 ferimento.
+
+/
+
+Os sobreviventes se aproximam de uma enorme porta levadiça parada na escuridão. Não está apegado a nada e não impede seu caminho.
+
+Eles podem optar por contorná-lo. Se o fizerem, role novamente na mesa de eventos de caça antes de mover para o tabuleiro de caça.
+
+Se a liquidação tiver a Chave Portcullis, eles podem apagá-la da folha de registro da liquidação e usá-la. Cada sobrevivente ganha +1 de coragem. A porta levadiça se abre e os sobreviventes passam. Uma escuridão úmida aguarda os sobreviventes lá dentro.
+Revelador de eventos 1d10
+
+1 A ponte levadiça se fecha de repente atrás deles e as luzes de suas lanternas começam a se apagar. A última coisa que os sobreviventes veem é a careta de medo nos rostos uns dos outros enquanto a escuridão se aproxima. Os sobreviventes estão mortos.
+
+2+ Aos pés deles está um cadinho ornamentado com um vazio no formato de uma arma poderosa. Ganhe o estranho recurso do Cadinho Perfeito. Se eles tiverem um ferreiro em seu assentamento, eles agora podem criar um matador perfeito.
+
+/
+
+Um enorme som metálico ressoa à distância. Todos os sobreviventes ficam eletrizados de pavor; eles sofrem 2 danos cerebrais.
+
+Os sobreviventes podem seguir o som. Caso contrário, eles entram em pânico e recuam na direção oposta; termine este evento e mova os sobreviventes 2 espaços de volta no tabuleiro de caça.
+
+Cada sobrevivente ganha +1 de coragem e se aproxima cautelosamente da origem do som. Enquanto eles viajam, eles passam pelos cadáveres despedaçados de feras estranhas.
+
+Se algum sobrevivente tiver mais de 3 compreensão, ele seguirá a trilha dos cadáveres. Caso contrário, colete 3 recursos básicos aleatórios dos cadáveres e termine este evento.
+
+Chegando a uma enorme bigorna, os sobreviventes veem um cavaleiro gigante com um olho só, sua armadura cor de carvão refletindo a luz da lanterna. O revelador de eventos rola 1d10.
+Revelador de eventos 1d10
+
+1 O cavaleiro afirma para os sobreviventes. Todos os sobreviventes com menos de 3 coragem morrem. Todos os outros sobreviventes fogem horrorizados.
+
+2 - 8 O cavaleiro se aproxima dos sobreviventes. Em um instante, ele corta a orelha de um sobrevivente aleatório; eles ganham 1 ficha de sangramento. Em seguida, atinge a bigorna, cegando os sobreviventes com uma parede de som agitada. Quando eles abrem os olhos, o cavaleiro se foi e o equipamento raro da Espada de Aço e do Escudo de Aço repousa em seu lugar. O grupo divide a marcha entre eles.
+
+9+ O cavaleiro esmaga o objeto com as mãos na bigorna. Quando o objeto laranja derretido esfria, ele se transforma em um enorme martelo com cara de leão. O cavaleiro o coloca nas mãos do sobrevivente com a maior coragem (rolar em caso de empate). Eles ganham o equipamento raro Thunder Maul. Uma corrente de eletricidade percorre seu corpo, unindo arma e sobrevivente para sempre.
+
+
+
+
+
+
+
+
